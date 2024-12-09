@@ -4,9 +4,13 @@
 Bien que nous participeront tous à toutes les étapes de créations du projet et nous aiderons entre nous tout au long du projet. Voici comment nous allont nous séparer les tâches.
 
 **Matis :** Développement web, Diffusion en ligne.
+
 **Abdel :** Développement web, programmation.
+
 **Daniel :** Installation, touch Designer.
+
 **Yavuz :** Modelisation 3D, Touch Designer.
+
 **Tristan :** Sons et électronique (Arduino) .
 
 
