@@ -85,8 +85,11 @@ flowchart TD
 
 ## **Scénarimage**
 Voici un scénarimage démontrant l'intéractivité de l'installation.
-![Desktop - 7](scena-1.jpg)
-
+![Scénarimage 1](scena-1.jpg)
+![Scénarimage 2](scena-2.jpg)
+![Scénarimage 3](scena-3.jpg)
+![Scénarimage 4](scena-4.jpg)
+![Scénarimage 5](scena-5.jpg)
 
 ## **Simulation**
 Voici des rendues 3D de ce à quoi ressemblerait notre plante.
