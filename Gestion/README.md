@@ -20,7 +20,7 @@ Cependant, contrairement à la nature impitoyable des réseaux sociaux, **Fuga**
 
 **Tristan :**
 
-**Daniel :** ff
+**Daniel :** Je souhaite approfondir mon expérience dans la gestion cohérente et collaborative de projets d'installation de longue durée. Mon objectif est également de continuer à développer mes compétences dans les multiples aspects du travail, tels que la programmation, l'installation, et bien plus encore.
 
 **Abdel :**
 
