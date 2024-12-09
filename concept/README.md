@@ -10,5 +10,5 @@ Le projet invite à réfléchir au rôle de notre attention dans un monde satur�
 - **Éducatifs :** Proposer une exploration ludique et métaphorique des cycles de croissance et de décroissance.  
 
 
-## **Botanica**
-**Botanica** est une exposition de la technique d'intégration multimédia par le collège Montmorency. Fuga étant une oeuvre présentant une plante elle s'intègre donc parfaitement dans l'exposition de Botanica. Une plante au milieu de la flore numérique.
+## **Résonances**
+**Résonances** est une exposition de la technique d'intégration multimédia par le collège Montmorency. Fuga étant une oeuvre présentant une plante elle qui se nourrit de sons créer par ses intéracteurs elle s'intègre donc parfaitement dans l'exposition de Résonances. Une plante qui se nourrit de son environnement à la fois bruillant et harmonieux.
