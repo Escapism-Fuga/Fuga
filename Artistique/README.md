@@ -85,7 +85,7 @@ flowchart TD
 
 ## **Scénarimage**
 Voici un scénarimage démontrant l'intéractivité de l'installation.
-![Desktop - 7](https://github.com/user-attachments/assets/c227bdaf-f4ad-4990-aaf6-a99df4f355b2)
+![Desktop - 7](scena-1.jpg)
 
 
 ## **Simulation**
