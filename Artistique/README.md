@@ -87,3 +87,7 @@ flowchart TD
 Voici un scénarimage démontrant l'intéractivité de l'installation.
 ![Desktop - 7](https://github.com/user-attachments/assets/c227bdaf-f4ad-4990-aaf6-a99df4f355b2)
 
+
+## **Simulation**
+Voici des rendues 3D de ce à quoi ressemblerait notre plante.
+![Desktop - 7](https://github.com/user-attachments/assets/c227bdaf-f4ad-4990-aaf6-a99df4f355b2)
