@@ -15,9 +15,11 @@ Voici un diagramme expliquant la communication des différents élément présen
 ````mermaid
 graph TD
     Ordinateur["Ordinateur central"]
+    
     subgraph Matériel_Principal
-        Serveur["Serveur indépendant"]
+        Serveur["Composante web"]
     end
+    
     subgraph Éléments_Audio
         Synthé["Synthétiseur"]
         Micro["Micro"]
@@ -25,33 +27,52 @@ graph TD
         Casque["Casque"]
         CarteSon["Carte de son"]
     end
+    
     subgraph Éléments_Vidéo
-        TV1["Télévision 1"]
-        TV2["Télévision 2"]
-        TV3["Télévision 3"]
-        Lumières["Éclairage supplémentaire"]
+        TV1["Écran 1"]
+        TV2["Écran 2"]
+        TV3["Écran 3"]
     end
+    
+    subgraph Éclairage
+        QLC["QLC+"]
+    end
+    
     subgraph Connectiques
         SwitchPOE["Switch POE"]
         CableEthernet["Câble Ethernet"]
+        AtomPOE["Atom POE"]
+        Knobs["Knobs"]
+        Sliders["Sliders"]
+        BoutonM5Stack["Bouton M5Stack"]
     end
+    
     %% Connexions
-    Serveur --> |Gère les signaux| Ordinateur
+    Serveur --> |Communications bidirectionnelles| Ordinateur
+
     %% Connexions Audio
     CarteSon --> |Connectée à| Ordinateur
     Synthé --> |Entrée/Sortie audio| CarteSon
     Micro --> |Entrée audio| CarteSon
     HP --> |Sortie audio| CarteSon
     Casque --> |Sortie audio| CarteSon
+
     %% Connexions Vidéo
     Ordinateur --> |Envoi vidéo| TV1 & TV2 & TV3
-    Ordinateur --> |Commandé par| Lumières
-    TV1 --> |Connexion via| CableEthernet
-    TV2 --> |Connexion via| CableEthernet
-    TV3 --> |Connexion via| CableEthernet
+    Ordinateur --> |Interface DMX via| QLC
+    
+
+    
+
     %% Réseau
     Ordinateur --> |Connexion réseau| SwitchPOE
-    SwitchPOE --> |CableEthernet| AtomPOE
+    SwitchPOE --> |Connexion via| CableEthernet --> AtomPOE
+
+    %% Contrôles via AtomPOE
+    AtomPOE --> Knobs
+    AtomPOE --> Sliders
+    AtomPOE --> BoutonM5Stack
+
 ````
 
 ### Web
@@ -65,18 +86,18 @@ flowchart TD
     end
     subgraph "Backend"
         n4["Serveur"]
-        n5["Traitement des stats\net interactions"]
+        n5["Traitement des stats et interactions"]
     end
     subgraph "Interface Utilisateur"
         n2["Site Web"]
     end
     %% Relations
-    n1 ---|"Capture de l'installation et\ninteractions sonores"| n3
-    n3 ---|"Stream de la plante et\nson évolution"| n2
-    n4 ---|"Statistiques\nd'évolution"| n5
-    n5 ---|"Visualisation des stats\nsur le site"| n2
+    n1 ---|"Capture de l'installation et interactions sonores (Caméra et micro)"| n3
+    n3 ---|"Stream de la plante et son évolution (Obs)"| n2
+    n4 ---|"Statistiques d'évolution"| n5
+    n5 ---|"Visualisation des stats sur le site"| n2
     n4 ---|"Gestion des interactions"| n1
-    n2 -->|"Actions utilisateur\n(envoyées au serveur)"| n4
+    n2 -->|"Actions utilisateur (envoyées au serveur)"| n4
 ````
 
 ## **Technologies utilisées**
