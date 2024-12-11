@@ -32,6 +32,6 @@ Cependant, contrairement à la nature impitoyable des réseaux sociaux, **Fuga**
 
 **Daniel :** Je souhaite approfondir mon expérience dans la gestion cohérente et collaborative de projets d'installation de longue durée. Mon objectif est également de continuer à développer mes compétences dans les multiples aspects du travail, tels que la programmation, l'installation, et bien plus encore.
 
-**Abdel :**
+**Abdel :** Je souhaite savoir comment je vais me débrouiller maintenant que je dois travailler en autonomie et simuler un travail dans une compagnie. Je trouve que le projet rejoint ma créativité et j'ai hâte d'y mettre un peu de ma patte.
 
 **Yavuz :**
