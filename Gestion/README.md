@@ -34,4 +34,4 @@ Cependant, contrairement à la nature impitoyable des réseaux sociaux, **Fuga**
 
 **Abdel :** Je souhaite savoir comment je vais me débrouiller maintenant que je dois travailler en autonomie et simuler un travail dans une compagnie. Je trouve que le projet rejoint ma créativité et j'ai hâte d'y mettre un peu de ma patte.
 
-**Yavuz :**
+**Yavuz :** J'ai envie de montrer ma créativité en 3D, et ce projet est une bonne opportunité pour le faire. J'ai aussi hâte de voir l'ensemble s'harmoniser à la fin.
