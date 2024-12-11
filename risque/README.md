@@ -2,11 +2,13 @@
 
 ## Produit minimum viable
 
-Interactivité
+### Interactivité
 La plante évolue lorsqu’elle reçoit du son du microphone, du synthétiseur ou du site web.
-Visuel
+
+### Visuel
 La plante est diffusée sur les trois écrans dans le studio et sur le site web.
-Matériel
+
+### Matériel
 Pour le matériel voici une liste de ce que nous aurons de besoins.
 -	Plante physique : pour intégrer visuellement la nature dans l'installation
 -	M5Atom
@@ -17,7 +19,8 @@ Pour le matériel voici une liste de ce que nous aurons de besoins.
 -	Caméra HD : pour capturer l'installation en direct.
 -	Table minimaliste pour accueillir le matériel central.
 -	Serveur et ordinateur pour le site web.
-Sonore
+	
+### Sonore
 Une ambiance sonore harmonieuse et mélodique avec des élément naturelle joue en continue et peut être agrémenté de son venant de l’interacteur.
 
 
