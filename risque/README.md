@@ -50,6 +50,22 @@ R9: La synchronisation entre Touch Designer, Max, et le matériel (capteurs, M5S
 
 ![Rsique](fuga.png)
  
-Pour éviter ces risques, nous devrons adopter une méthodologie rigoureuse alliant tests approfondis, planification et optimisation technique. Tout d'abord, il sera essentiel de tester les animations et la configuration des écrans dans des conditions similaires à l'installation finale (R1). La calibration des capteurs M5Stack devra être effectuée régulièrement, en tenant compte du placement optimal pour détecter les interactions (R2). Pour assurer l'engagement des visiteurs, des panneaux explicatifs et des démonstrations claires seront nécessaires (R3). Un test de qualité sonore et de positionnement des haut-parleurs sera réalisé pour éviter les interférences ou saturations (R4). Concernant la diffusion en direct, nous prévoyons une connexion Internet au Cegep qui pourrait donc recevoir beaucoup d’achalandage, mais celle du studio devrait être plus adaptée (R5). Le serveur devra être optimisé pour traiter un grand nombre d’interactions simultanées, avec des options d’évolutivité (R6). Pour gérer le bruit ambiant, l’espace sera aménagé avec des matériaux absorbants, comme des rideaux si nécessaire (R7). Une manipulation soignée et l’utilisation de pièces de rechange minimiseront les risques de bris lors de l’installation (R8). Enfin, des tests intensifs et une vérification des compatibilités logicielles entre Touch Designer, Max et le matériel garantiront une synchronisation fluide (R9).
+Pour éviter ces risques, nous devrons adopter une méthodologie rigoureuse alliant tests approfondis, planification et optimisation technique. Tout d'abord, il sera essentiel de tester les animations et la configuration des écrans dans des conditions similaires à l'installation finale (R1).
+
+La calibration des capteurs M5Stack devra être effectuée régulièrement, en tenant compte du placement optimal pour détecter les interactions (R2). 
+
+Pour assurer l'engagement des visiteurs, des panneaux explicatifs et des démonstrations claires seront nécessaires (R3). 
+
+Un test de qualité sonore et de positionnement des haut-parleurs sera réalisé pour éviter les interférences ou saturations (R4). 
+
+Concernant la diffusion en direct, nous prévoyons une connexion Internet au Cegep qui pourrait donc recevoir beaucoup d’achalandage, mais celle du studio devrait être plus adaptée (R5). 
+
+Le serveur devra être optimisé pour traiter un grand nombre d’interactions simultanées, avec des options d’évolutivité (R6). 
+
+Pour gérer le bruit ambiant, l’espace sera aménagé avec des matériaux absorbants, comme des rideaux si nécessaire (R7). 
+
+Une manipulation soignée et l’utilisation de pièces de rechange minimiseront les risques de bris lors de l’installation (R8).
+
+Enfin, des tests intensifs et une vérification des compatibilités logicielles entre Touch Designer, Max et le matériel garantiront une synchronisation fluide (R9).
 
 
