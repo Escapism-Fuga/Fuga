@@ -127,7 +127,9 @@ flowchart TD
    - Communication entre le matériel et le logiciel Unity.  
 4. **QLC+ :**  
    - Contrôle des lumières
-5. **Hébergeur web**  
+5. **Hébergeur web**
+6. **Ableton**
+   - Création et intéraction sonnore
 
 
 ## **Devis technique**
@@ -136,4 +138,4 @@ Voici ce qui sera fourni par l'école et ce que l'ont devra founrnir nous même.
 
 **École :** Microphone, télévisions, hauts-parleurs et les accessoires nécéssaires à ces derniers. Ainsi que les logiciel
 
-**Nous :** Instruments de musique autres et décors recyclé.
+**Nous :** Ableton, Instruments de musique autres et décors recyclé.
