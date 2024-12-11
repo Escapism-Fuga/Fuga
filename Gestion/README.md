@@ -28,7 +28,7 @@ Cependant, contrairement à la nature impitoyable des réseaux sociaux, **Fuga**
 ### Individuelles
 **Matis :** J'ai hate de travailler sur ce projet pour perfectionner mes compétences en web et en installation intéractive. De fusionner et mettre en pratique ces deux technologies me motive à travailler sur ce projet. 
 
-**Tristan :**
+**Tristan :** J'adore le concept de ce projet, qui s'inscrit parfaitement dans mon propre courant de pensée, l'escapism. Je suis impatient de mettre mes compétences en pratique et de contribuer à la réussite de ce projet en collaborant avec une équipe dynamique.
 
 **Daniel :** Je souhaite approfondir mon expérience dans la gestion cohérente et collaborative de projets d'installation de longue durée. Mon objectif est également de continuer à développer mes compétences dans les multiples aspects du travail, tels que la programmation, l'installation, et bien plus encore.
 
