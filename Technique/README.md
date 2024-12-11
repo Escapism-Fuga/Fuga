@@ -139,3 +139,7 @@ Voici ce qui sera fourni par l'école et ce que l'ont devra founrnir nous même.
 **École :** Microphone, télévisions, hauts-parleurs et les accessoires nécéssaires à ces derniers. Ainsi que les logiciel
 
 **Nous :** Ableton, Instruments de musique autres et décors recyclé.
+
+## Estimation des couts
+50$ pour les decors, fournis par nous.
+200$ par écrans (si l'écolen'en n'a pas déja à nous fournir)
