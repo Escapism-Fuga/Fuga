@@ -1,8 +1,5 @@
 # Synoptique
 
-## Synoptique
-
-### Installation intéractive
 Voici un diagramme expliquant la communication des différents élément présentes lors de l'ibstallation.
 
 ````mermaid
@@ -60,6 +57,8 @@ graph TD
     AtomPOE --> BoutonM5Stack
 
 ````
+
+Donc, l'utilisateur arrive devant les écrans et se met à utiliser le synthétiseur. Les données du synthétiseur sont reçus dans Reaper par la carte de son. Reaper traite le son avec des effets et analyse le son gràce au plugin de Plug Data. Le son est retourné a l'utilisateur via des hauts parleurs. Plug Data doit alors analyser le son pour isoler les données voulu et ensuite les envoyer vers unity.
 
 ## Références
 
