@@ -6,5 +6,5 @@
 * [![Membre_W]( https://fakeimg.pl/400x400?text=W)](membre_w/)
 * [![Membre_X]( https://fakeimg.pl/400x400?text=X)](membre_x/)
 * [![Membre_Y]( https://fakeimg.pl/400x400?text=Y)](membre_y/)
-* [![Membre_Z]( https://fakeimg.pl/400x400?text=Z)](membre_Z/)
+* [![yavuz](medias/yavuz.jpg)](yavuz.jpg)
 
