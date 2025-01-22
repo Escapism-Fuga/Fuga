@@ -1,6 +1,5 @@
 # Gestion de projet
 
-## Fuga project
 [Fuga project](https://github.com/orgs/Escapism-Fuga/projects/1/)
 
 
