@@ -6,5 +6,5 @@
 * [![Tristan](medias/tristan.png)](tristan.png)
 * [![Daniel](medias/daniel.png)](daniel.png)
 * [![Abdel](medias/abdel.png)](abdel.png)
-* [![Yavuz](medias/yavuz.jpg)](yavuz.jpg)
+* [![Yavuz](medias/yavuz.png)](yavuz.png)
 
