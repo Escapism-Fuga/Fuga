@@ -17,7 +17,6 @@ Voici un visuel qui représentent l'atmosphère du projet :
 - [Realistic Tree Grow 3d Model | Procedural HIP Setup + Alembic Files (Animated)](https://youtu.be/MfMhxoc8SZ8)
 - [MAYA 3D - Reconstructions of the Mayan World](https://youtu.be/uCa-6X-3IF4)
 
-https://youtu.be/MfMhxoc8SZ8
 
 ## Ambiance Sonore
 
