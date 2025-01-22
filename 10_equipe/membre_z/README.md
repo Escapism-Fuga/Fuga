@@ -1,6 +1,6 @@
 # Yavuz-Selim Gucluer
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=z)
+ ![Yavuz](medias/yavuz.png)
 
  ## Réalisations
 
