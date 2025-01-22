@@ -1,1 +1,1 @@
-Images du projet
+Dossier qui contient nos différents médias
