@@ -1,4 +1,4 @@
-# Membre W
+# Tristan Khadka
 
  ![Membre_w]( https://fakeimg.pl/400x400?text=w)
 
