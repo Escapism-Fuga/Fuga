@@ -40,7 +40,7 @@ graph TD
     Casque --> |Sortie audio| CarteSon
 
     %% Connexions Vidéo
-    Ordinateur --> Spliter 4k
+    Ordinateur --> |Envoi vidéo| Spliter 4k
     Spliter 4k --> |Envoi vidéo| TV1 & TV2 & TV3
     Ordinateur --> |Interface DMX via| QLC
     
