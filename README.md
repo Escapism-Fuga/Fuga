@@ -1,13 +1,11 @@
 # Fuga
 
-Sur la mystérieuse île de Germina, des chercheurs font la découverte d'un temple qui attise leur curiositée. Pendant leur fouille, ils tombent sur un parchemin et un boitier étrange. L'île n'avais pas d'arbre quand les chercheurs sont arrivés, mais quand ils ressortent du temple, il se retrouve dans une forêt dense.
+Sur la mystérieuse île de Germina, des chercheurs font la découverte d'un temple qui attise leur curiosité. Pendant leur fouille, ils tombent sur un parchemin et un boîtier étrange. L'île n'avait pas d'arbres quand les chercheurs sont arrivés, mais lorsqu'ils ressortent du temple, ils se retrouvent dans une forêt densément peuplée d'arbres aux couleurs étranges et à la silhouette difforme.
 
 
 ## Devrait être présent sur cette page:
 
-* Titre
 * Bande-annonce
-* Résumé du projet (~ 100 mots)
 * Documentation vidéo de l'installation en action
 * Gallerie photo du projet réalisé
 
