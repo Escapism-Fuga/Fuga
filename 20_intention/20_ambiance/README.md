@@ -12,9 +12,9 @@ Voici un visuel qui représentent l'atmosphère du projet :
 
 Écoutez l'ambiance sonore qui accompagne le projet :
 
-- [Ambiance 1](https://www.youtube.com/watch?v=zJt2nbWQCUU)
-- [Ambiance 2](https://youtu.be/VDRJk6N6OoY?list=PLqvkS10cUjZ7n3RZU7nnOQ9BncYkIN_XT)
-- [Ambiance 3](https://youtu.be/ZMmScn1DEYk?list=PLEBwBR_8DKbzrodgESXXBUMhtzwBh2VpJ)
+- [The ambient drones of Bill Baxter - Procyon (2024)](https://www.youtube.com/watch?v=zJt2nbWQCUU)
+- [Teebs](https://youtu.be/VDRJk6N6OoY?list=PLqvkS10cUjZ7n3RZU7nnOQ9BncYkIN_XT)
+- [Chihei Hatakeyama - Ferrum](https://youtu.be/ZMmScn1DEYk?list=PLEBwBR_8DKbzrodgESXXBUMhtzwBh2VpJ)
 
 <!--
 Note : Découvrez plus d'informations sur l'**[Ambiance du projet ici](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/30_ambiances/)**.
