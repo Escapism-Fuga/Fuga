@@ -1,4 +1,8 @@
 # Plantation
+### Vue de face
+![Vue de face](Assets/Plantation/fuga-face.png)
+![Vue de coter](plantation-side.png)
+![Vue de haut](plantation-sky.png)
 
 
 ## Référence 
