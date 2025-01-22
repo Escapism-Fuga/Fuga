@@ -1,5 +1,7 @@
 # Simulation
 
+Voici les rendus 3d du projet :
+
 ![3d1](medias/3d1.png)
 ![3d2](medias/3d2.png)
 
