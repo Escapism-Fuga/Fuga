@@ -57,7 +57,7 @@ graph TD
     AtomPOE --> |Commande| BoutonM5Stack
 ````
 
-Donc, l'utilisateur arrive devant les écrans et se met à utiliser le synthétiseur. Les données du synthétiseur sont reçus dans Reaper par la carte de son. Reaper traite le son avec des effets et analyse le son gràce au plugin de Plug Data. Le son est retourné a l'utilisateur via des hauts parleurs. Plug Data doit alors analyser le son pour isoler les données voulu et ensuite les envoyer vers unity et QLC+. Qlc+ utiliser les données pour changer les lumières et adapter l'ambiance. Unity et un outil de création d'arbre génératif utilisera aussi les données reçu pour rendre châque arbres uniques. 
+Donc, l'utilisateur arrive devant les écrans et se met à utiliser le synthétiseur. Les données du synthétiseur sont reçus dans Reaper par la carte de son. Reaper traite le son avec des effets et analyse le son gràce au plugin de Plug Data. Le son est retourné a l'utilisateur via des hauts parleurs. Plug Data doit alors analyser le son pour isoler les données voulu et ensuite les envoyer vers unity et QLC+. Qlc+ utiliser les données pour changer les lumières et adapter l'ambiance. Unity et un outil de création d'arbre génératif utilisera aussi les données reçu pour rendre châque arbres uniques. Il fait ensuite trois rendues de trois points de vues différents qu'il envoie vers les trois écrans.
 
 ## Références
 
