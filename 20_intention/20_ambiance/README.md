@@ -4,7 +4,7 @@ Découvrez l'ambiance visuelle et sonore de Fuga.
 
 ## Visuels
 
-Voici quelques visuels qui représentent l'atmosphère du projet :
+Voici un visuel qui représentent l'atmosphère du projet :
 
 ![Moodboard 1](../medias/389636728-c227bdaf-f4ad-4990-aaf6-a99df4f355b2.png)
 
@@ -12,9 +12,9 @@ Voici quelques visuels qui représentent l'atmosphère du projet :
 
 Écoutez l'ambiance sonore qui accompagne le projet :
 
-- [Ambiance 1](https://link-vers-son-1.com)
-- [Ambiance 2](https://link-vers-son-2.com)
-- [Ambiance 3](https://link-vers-son-3.com)
+- [Ambiance 1](https://www.youtube.com/watch?v=zJt2nbWQCUU)
+- [Ambiance 2](https://youtu.be/VDRJk6N6OoY?list=PLqvkS10cUjZ7n3RZU7nnOQ9BncYkIN_XT)
+- [Ambiance 3](https://youtu.be/ZMmScn1DEYk?list=PLEBwBR_8DKbzrodgESXXBUMhtzwBh2VpJ)
 
 <!--
 Note : Découvrez plus d'informations sur l'**[Ambiance du projet ici](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/30_ambiances/)**.
