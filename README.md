@@ -1,6 +1,7 @@
-# 58266b-experience-modele
+# Fuga
 
-Modèle de publication pour le cours 582 66B experience multimedia interactive
+Sur la mystérieuse île de Germina, des chercheurs font la découverte d'un temple qui attise leur curiositée. Pendant leur fouille, ils tombent sur un parchemin 
+
 
 ## Devrait être présent sur cette page:
 
