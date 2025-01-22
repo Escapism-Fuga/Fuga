@@ -1,7 +1,7 @@
 # Gestion de projet
 
 ## Fuga project
-[Outil génératif](https://github.com/orgs/Escapism-Fuga/projects/1/)
+[Fuga project](https://github.com/orgs/Escapism-Fuga/projects/1/)
 
 
 ## Tableau par semaine
