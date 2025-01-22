@@ -11,7 +11,6 @@ graph TD
         Micro["Micro"]
         HP["Haut-parleurs"]
         CarteSon["Carte son"]
-        Casque["Casque"]
     end
     
     subgraph Éléments_Vidéo
@@ -39,7 +38,6 @@ graph TD
     Synthé --> |Entrée/Sortie audio| CarteSon
     Micro --> |Entrée audio| CarteSon
     HP --> |Sortie audio| CarteSon
-    Casque --> |Sortie audio| CarteSon
 
     %% Connexions Vidéo
     Ordinateur --> |Envoi vidéo| Splitter
