@@ -1,7 +1,7 @@
 # Simulation
 
 ![3d1](medias/3d1.png)
-![3d2](medias/3d1.png)
+![3d2](medias/3d2.png)
 
 <!--
 Note : Découvrez plus d'informations sur la **[Simulation du projet ici](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/30_simulation/)**.
