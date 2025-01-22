@@ -1,7 +1,7 @@
 # Scénarimage
 
 <!-- Ici mettre tous les documents et références associés au scénarimage  -->
-[scena1](Assets/Images/Scenarimages/scena-1.jpg)
+[scena1](../../Assets/Images/Scenarimages/scena-1.jpg)
 
 ## Réferences 
 
