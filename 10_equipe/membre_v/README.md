@@ -1,6 +1,6 @@
 # Matis Labelle
 
- ![Matis Labelle](10_equipe/medias/matis.png)
+ ![Matis Labelle](medias/membre_v/matis.png)
 
  ## Réalisations
 
