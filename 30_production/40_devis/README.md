@@ -1,13 +1,11 @@
-# Devis Technique
-
-Voici une organisation détaillée des éléments à fournir par l'école, classés par catégories.
+# Devis technique
 
 ## Fournis par l'école
 
-### Matériel audio
+### Matériel Audio
 
 #### Haut-parleurs
-- **2 Hauts-parleurs**  
+- **2 Haut-parleurs**  
   - [Genelec (x2)](https://a.co/d/1YUBLDe)
 
 #### Accessoires pour haut-parleurs
@@ -20,13 +18,16 @@ Voici une organisation détaillée des éléments à fournir par l'école, class
 - **1 Carte de son**  
   - [Behringer UMC1820 Audiophile Interface (x1)](https://www.amazon.ca/-/fr/Behringer-UMC1820-Audiophile-Interface-pr%C3%A9amplificateurs/dp/B01EXI8Y9S)
 
+### Matériel Vidéo
+- **3 Télévisions**  
+  - [Banq ET-0023-t]()
+- **3 Câbles HDMI**  
+  - [AmazonBasics Câble HDMI (x3)](https://www.amazon.ca/AmazonBasics-Compatible-Ethernet-retour-Nouvelles/dp/B014I8SIJY)
+- **Poids pour stabiliser la poutre**  
+  - [Impact Saddle Shot Bag (x1)](https://www.bhphotovideo.com/c/product/1731728-REG/impact_ssb_15_saddle_shot_bag_15.html)
 
-### Matériel vidéo :
-- **3 Télévisions** ([Banq ET-0023-t]())
-- **3 Cables HDMI** ([](https://www.amazon.ca/AmazonBasics-Compatible-Ethernet-retour-Nouvelles/dp/B014I8SIJY/ref=sr_1_1_ffob_sspa?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.7-FZd1kBln0u7kow8fLab5bqgFl861mrS7fif9nfvAJRLGg63qpkRzOxPoolNyZ8k3_3p_jYgK8In7VsrcG4JGB4hUfsoCUaba8aX-NGn-6iGmy_oK6Ip71k0chLDHcSrcyPhHrNAsQJCLsgFVsiQkvZHnxSkQkX3hRZyW1iXQ2JwED016Qlmxgvx_xgDYYh833qmE-2FitoL3y3yHiX5RU2AZsZ1y3q18cMqGBKv_pK-HAG0dFEoMx6JZvbQUptNQatadg3DSd5dVqGpYKbUHrT_AFXaqKkhw-SoCkrIJE.2RHOPU5YVqUlBF4h8hN61UOVCW4WGpfHxtZ5wNXLUjE&dib_tag=se&keywords=cable+hdmi&qid=1737654198&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1))
-
-### Assets 3D :
-- **Modèles 3D** pour l'intégration dans Unity et/ou TouchDesigner
+### Assets 3D
+- **Modèles 3D** pour intégration dans Unity et/ou TouchDesigner
 - **Textures et matériaux** associés
 - **Animations 3D** nécessaires à la présentation
 
@@ -34,29 +35,34 @@ Voici une organisation détaillée des éléments à fournir par l'école, class
 
 ## Fournis par nous
 
-### Logiciels et outils de développement :
+### Logiciels et Outils de Développement
 - **Unity** (version et plugins nécessaires)
 - **TouchDesigner** (version et plugins nécessaires)
 - **Reaper** (version et plugins nécessaires)
 - **Plugdata** (version et plugins nécessaires)
 
-### Instruments de musique :
-- **Instruments physiques** (type et nombre : guitare, clavier, percussion, etc.)
-- **Instruments virtuels** (VST, plugins utilisés pour la performance)
+### Instruments de Musique
+- **Contrôleurs physiques**  
+  - [Boutons M5 Stack](https://m5stack.com/)
+- **VST Instruments et Effets**  
 
-### Décors recyclés :
-- **Éléments décoratifs** (mobilier, objets, matériaux recyclés)
-- **Équipements nécessaires pour installation des décors** (supports, outils, etc.)
+### Décors Recyclés
+- **Fausse Végétation**  
+  - [Ficus artificiel](https://www.amazon.ca/-/fr/dp/B09NB56B6M)  
+  - [Plante suspendue artificielle](https://www.amazon.ca/-/fr/dp/B09KY3JLCB)  
+  - [Plantes tropicales artificielles](https://www.amazon.ca/-/fr/dp/B07DHWX1VJ)  
+- **Bois pour les bases**  
+  - **Poteaux pour les télévisions**  
+    - [Poteau en bois brut](https://www.amazon.ca/-/fr/dp/B089GPX64R)  
 
-### Autres équipements :
-- **Câblage supplémentaire** pour l’interconnexion des différents éléments
-- **Interfaces audio ou MIDI** si nécessaire pour les instruments
-- **Matériel de régie vidéo** (ordinateurs, table de mixage vidéo, etc.)
+### Autres Équipements
+- **Câblage supplémentaire**  
+- **Interfaces audio ou MIDI** si nécessaires pour les instruments  
+- **Matériel de régie vidéo**
 
 ---
 
-## Autres points à préciser
-
-- **Détails sur l'installation** : disposition des équipements audio et vidéo
-- **Planning de montage et de tests**
+## Autres Points à Préciser
+- **Planning de montage et de tests** : prévoir un calendrier précis pour l’installation, les essais techniques et les ajustements finaux.  
+- **Validation des configurations techniques** : s'assurer que chaque composant matériel et logiciel est compatible et opérationnel avant le jour de la présentation.  
 
