@@ -26,7 +26,7 @@
 4. **OBS**
      - Création et intéraction sonnore
 5. **Maya**
-   - Création et intéraction sonnore
+   - Création de modele 3D
 6. **PlugData**
    - Communication entre le matériel et le logiciel Unity. 
 
