@@ -10,6 +10,16 @@ Quand l'utilisateur utilise le boitier ancien (synthétiseur) des arbres poussen
 Trois téléviseurs offrent une vue d'ensemble sur la forêt autour du temple comme si c'était des fenêtres, on voit donc les arbres pousser sous l'influence de nos créations sonores. Ce processus d'arbre unique par rapport à son son d'origine sera possible grace à un programme génératif (références si-dessous).
 
 
+## Ce que l'interacteur va vivre 
+L'interacteur va vivre une expérience immersive et engageante où il devient un créateur actif d'un monde fictionnel. En interagissant avec le son, il participe à la manipulation d'une forêt mythique. Chaque manipulation sonore influence les propriétés des arbres offrant un lien entre son action et l'évoilution visuelle de l'environnement. 
+
+## Ce que l'interacteur va ressentir
+L,interacteur va ressentir un mélange de curiosité, de pouvoir et d'émervei
+
+
+
+
+
 ## Références
 
 * [Outil génératif](https://assetstore.unity.com/packages/tools/modeling/treegen-2023-procedural-tree-generator-244180)
