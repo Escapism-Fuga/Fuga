@@ -4,7 +4,7 @@ Voici ce qui sera fourni par l'école et ce que l'ont devra founrnir nous même.
 
 École : Microphone, télévisions, assets 3d, hauts-parleurs et les accessoires nécéssaires à ces derniers. Ainsi que les logiciels.
 
-Nous : Unity, Touch Designer. Instruments de musique autres et décors recyclés.
+Nous : Unity, Touch Designer, Instruments de musique autres et décors recyclés.
 
 ## Référence
 
