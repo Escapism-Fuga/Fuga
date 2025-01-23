@@ -12,7 +12,7 @@ Trois téléviseurs offrent une vue d'ensemble sur la forêt autour du temple co
 
 ## Ce que l'interacteur va vivre 
 
-L'interacteur vivra une expérience immersive où, en manipulant le son, il deviendra le créateur d'une forêt mythique, influençant ses arbres et leur évolution visuelle en temps réel.
+### L'interacteur vivra une expérience immersive où, en manipulant le son, il deviendra le créateur d'une forêt mythique, influençant ses arbres et leur évolution visuelle en temps réel.
 
 
 
@@ -21,7 +21,7 @@ L'interacteur va vivre une expérience immersive et engageante où il devient un
 
 ## Ce que l'interacteur va ressentir
 
-L'interacteur ressentira curiosité, émerveillement et plaisir ludique en explorant les interactions sonores, éveillant sa fascination et son imaginaire dans une atmosphère mêlant innovation technologique et connexion avec la nature.
+### L'interacteur ressentira curiosité, émerveillement et plaisir ludique en explorant les interactions sonores, éveillant sa fascination et son imaginaire dans une atmosphère mêlant innovation technologique et connexion avec la nature.
 
 
 
@@ -30,7 +30,7 @@ L'interacteur va ressentir un mélange de curiosité, de pouvoir et d'émerveill
 
 ## Ce que l'interacteur va comprendre 
 
-L'interacteur comprendra l'interconnexion entre son, visuel et nature, réalisant que chaque action influence un écosystème et réfléchissant à notre rôle de créateurs dans un monde en constante évolution.
+### L'interacteur comprendra l'interconnexion entre son, visuel et nature, réalisant que chaque action influence un écosystème et réfléchissant à notre rôle de créateurs dans un monde en constante évolution.
 
 
 
