@@ -7,7 +7,7 @@ Voici une liste des éléments à fournir par l'école et par notre équipe.
 ### Matériel audio :
 - **Hauts-parleurs** (2 [Genelec](https://a.co/d/1YUBLDe)
  )
-- **Accessoires pour haut-parleurs** (câbles, supports, adaptateurs)
+- **Accessoires pour haut-parleurs** (2 [Cables XLR](https://a.co/d/1YUBLDe), 2 [Ralonges](https://a.co/d/1YUBLDe), 2 [Cables ethernet](https://a.co/d/1YUBLDe))
 
 ### Matériel vidéo :
 - **Télévisions** (taille, type, résolution)
