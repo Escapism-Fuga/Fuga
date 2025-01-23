@@ -5,14 +5,11 @@
    - Microphone
 2. **Télévisions :**  
    - Affichage de la plante 3D en temps réel. 
-3. **Haut-parleurs (4 unités) :**  
+3. **Haut-parleurs (2 unités) :**  
    - Son immersif et spatialisé.  
 4. **Décor recyclé :**  
    - Technologie vintage (moniteurs CRT, câbles usés) et végétation intégrée.
-5. **Site Web :**  
-   - Diffusion de la plante en temps réel.
-   - Possibilité d'envoyer des clips vocals pour aider la plante à se développer.
-6. **Accessoires :**
+5. **Accessoires :**
    - câblages (HDMI, Ethernet, audio), supports techniques pour projecteurs et autres équipements.
    - Cartes d'aquisition: audio, vidéo
 
