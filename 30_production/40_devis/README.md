@@ -5,9 +5,9 @@ Voici une liste des éléments à fournir par l'école et par notre équipe.
 ## Fournis par l'école
 
 ### Matériel audio :
-- **Microphones** (type, nombre et caractéristiques)
-- **Hauts-parleurs** (type, nombre, puissance)
-- **Accessoires pour microphones et haut-parleurs** (câbles, supports, adaptateurs)
+- **Hauts-parleurs** (2 [Genelec](https://a.co/d/1YUBLDe)
+ )
+- **Accessoires pour haut-parleurs** (câbles, supports, adaptateurs)
 
 ### Matériel vidéo :
 - **Télévisions** (taille, type, résolution)
