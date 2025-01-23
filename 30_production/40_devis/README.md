@@ -1,4 +1,4 @@
-# Devis Technique
+# Devis technique
 
 Voici une liste des éléments à fournir par l'école et par notre équipe.
 
