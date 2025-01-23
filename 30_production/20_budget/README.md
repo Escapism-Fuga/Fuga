@@ -1,6 +1,6 @@
 # Budget
 
-## Budjet de 500$
+## Budget de 500$
 
 | Description | Quantité    | Prix total  | lien        |
 | ----------- | ----------- | ----------- | ----------- |
