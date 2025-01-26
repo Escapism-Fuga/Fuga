@@ -55,7 +55,7 @@
 - **Bois pour les bases**  
   - **Poteaux pour les télévisions**  
     - [Monoprice 8" x 8" Lite Duty Box Truss 1m (3.28') with Hardware, Gray](https://www.amazon.ca/Stage-Right-Truss-3-28ft-Hardware/dp/B076HVBXL8/ref=asc_df_B076HVBXL8/?tag=googleshopc0c-20&linkCode=df0&hvadid=706828401332&hvpos=&hvnetw=g&hvrand=376354606448373898&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000456&hvtargid=pla-826352190920&psc=1&mcid=ab968b4b48203dc0810218c347a42163&gad_source=1)
-    -   - **stand pour les télévisions**  
+      - **stand pour les télévisions**  
     - [VIVO Steel Universal Full Motion Pole Mount Monitor Arm with Removable 75mm and 100mm VESA Plate, Fits 17 to 32 inch Screens, Black, MOUNT-POLE01A](https://www.amazon.ca/VIVO-Universal-Monitor-Removable-MOUNT-POLE01A/dp/B083F3RPRK/ref=sr_1_47?crid=1VQR4KELSF17C&dib=eyJ2IjoiMSJ9.0lQqciJcxCZyeSH_Y_4_nF0sqLaHlU_4ibGj4Z6wYcZuuMA3kayO2yshDtemcDuQKAQ9FKdI6tljqGLO_f5vs65dV3CDtIBxFwjk1QtiJnRzon-e_B3-AMbM97cwRsmgpPShhIZ8fgV-nzWt10RtydOgvIaTKrBrKPeySYZcvnM9FNpwMpB3n094UmMPXArCKv_gfbzBv-uEnbIL8FUsSpala_YLCWQg5nG6UjBympIoHy5ob8WjUGcGvOEOEj7CGkGe6BrDWvZ__SFQgQ5axChJXCFtcmMjWz1qCHyLcHcgZCDOsovnNDDtTqPLlwWRtg3KvDyty1vXNpa6KdNnShvSihF4LL6UbE2JiDONebk6291gKgqSiBdRaFS60qAzqEHlffZZCt0NYmq-q_Rc2h214T5s2zF3qsWHD6vba-7ukSTqU3DEQmAKfAQHLh18.DwYAjmISIlo0HZwS2IeoDa7GE2GWEQC8Ebfb7ZtZrx8&dib_tag=se&keywords=tv%2Bstand%2Bfor%2Bpole&qid=1737919029&sprefix=tv%2Bstand%2Bfor%2Bpole%2Caps%2C83&sr=8-47&th=1) 
 
 ### Autres Équipements
