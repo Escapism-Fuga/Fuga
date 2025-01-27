@@ -7,7 +7,7 @@
 ## semaine 1
 Conception du projet sur Github 
 
-1. [Devis](#devis)
+1. [Devis](#40_maquette)
 2. [Budget](#budget)
 3. [Simulation](#simulation)
 4. [Ambiance](#ambiance)
