@@ -1,6 +1,17 @@
 # Synoptique
 
-Voici un diagramme expliquant la communication des différents élément présentes lors de l'ibstallation.
+Voici le diagramme qui explique la communication inter logiciel dans l'ordinateur principale.
+
+````mermaid
+graph TD
+    A[Virtual Keyboard de Reaper] -->|Envoie du son| B[Plug-Data 1]
+    B -->|Analyse le son reçu| C[LoopMIDI]
+    C -->|Transmet les données MIDI| D[Plug-Data 2]
+    D -->|Traite les infos reçues| E[OSC]
+    E -->|Envoi des données en OSC| F[Unity]
+````
+
+Voici un diagramme expliquant la communication des différents élément présentes lors de l'installation.
 
 ````mermaid
 graph TD
