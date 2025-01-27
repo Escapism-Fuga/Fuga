@@ -7,7 +7,7 @@
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
 ## semaine 1
-Conception du projet sur Github (Les membre d'équipe, l'insertion des images des membres de l'équipe, 
+Conception du projet sur Github (La section des membres d'équipe, la liste des logiciels utilisés, le texte sur les trois questions sur notre projet) 
 
 
 
