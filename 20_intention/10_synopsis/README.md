@@ -20,9 +20,9 @@ Dans ce laboratoire, un arbre unique est planté dans un pot. Cet arbre a été 
 Le générateur produit des ondes sonores qui influencent la croissance de l'arbre. Trois écrans dans l'installation montrent l'évolution en temps réel de l’arbre et de l'environnement autour de lui, permettant à l’interacteur de voir les effets directs de ses actions.
 
 ### **Le Processus de Croissance**
-- **Sons Harmoniques** : Lorsque les fréquences sont équilibrées et harmonieuses, l'arbre commence à se développer. Ses branches se forment, des feuilles apparaissent, et l’espace autour devient plus vert, vibrant et vivant. L’atmosphère devient plus lumineuse, symbolisant la régénération et la synergie entre la technologie et la nature.
+ **Sons Harmoniques** : Lorsque les fréquences sont équilibrées et harmonieuses, l'arbre commence à se développer. Ses branches se forment, des feuilles apparaissent, et l’espace autour devient plus vert, vibrant et vivant. L’atmosphère devient plus lumineuse, symbolisant la régénération et la synergie entre la technologie et la nature.
   
-- **Sons Déséquilibrés** : Si les fréquences sont trop aigües, trop graves ou mal ajustées, l'arbre ne pousse pas. Ses branches se fanent, les feuilles tombent, et l'environnement autour se détériore. Le sol devient sec, les couleurs de l'espace s'éteignent, et l'atmosphère se charge d'une ambiance stérile.
+ **Sons Déséquilibrés** : Si les fréquences sont trop aigües, trop graves ou mal ajustées, l'arbre ne pousse pas. Ses branches se fanent, les feuilles tombent, et l'environnement autour se détériore. Le sol devient sec, les couleurs de l'espace s'éteignent, et l'atmosphère se charge d'une ambiance stérile.
 
 ### **Le But de l'Interaction**
 L'interacteur a pour mission de manipuler le générateur de signaux pour produire des sons qui favorisent la croissance de l'arbre. Il doit expérimenter les fréquences et ajuster les paramètres du générateur pour **trouver l'équilibre parfait**. Lorsque l'interacteur parvient à faire grandir l'arbre, il reçoit un QR code qui lui permet de récupérer une empreinte numérique de l'arbre sous forme de NFT, représentant son impact positif sur la nature.
@@ -43,11 +43,11 @@ Au fur et à mesure de l’expérience, l’interacteur éprouvera un **mélange
 
 ## **Ce que l'Interacteur Va Ressentir**
 
-- **Curiosité et Plaisir** : Manipuler le générateur et voir l'impact direct sur l’arbre suscitera de l’émerveillement et de la fascination. L’interacteur sera captivé par le changement immédiat dans l’environnement autour de lui.
+ **Curiosité et Plaisir** : Manipuler le générateur et voir l'impact direct sur l’arbre suscitera de l’émerveillement et de la fascination. L’interacteur sera captivé par le changement immédiat dans l’environnement autour de lui.
   
-- **Émerveillement** : L’arbre grandissant en réponse aux sons et l’atmosphère se transformant en fonction des fréquences créera un **sentiment d’émerveillement** devant la connexion entre technologie et nature.
+ **Émerveillement** : L’arbre grandissant en réponse aux sons et l’atmosphère se transformant en fonction des fréquences créera un **sentiment d’émerveillement** devant la connexion entre technologie et nature.
   
-- **Responsabilité** : L'interacteur prendra peu à peu conscience de l'impact de ses actions. Il comprendra que **la technologie doit être utilisée de manière éthique** et que son impact sur la nature n'est pas à prendre à la légère.
+ **Responsabilité** : L'interacteur prendra peu à peu conscience de l'impact de ses actions. Il comprendra que **la technologie doit être utilisée de manière éthique** et que son impact sur la nature n'est pas à prendre à la légère.
 
 ---
 
@@ -61,7 +61,7 @@ L’interacteur apprendra que, tout comme dans la réalité, la **nature** réag
 
 ## **Références Techniques**
 
-- **Outil Génératif** : Le générateur de signaux analogiques utilise un programme génératif pour adapter la croissance des arbres en fonction des fréquences sonores manipulées par l’interacteur. [Référence Outil Génératif](https://assetstore.unity.com/packages/tools/modeling/treegen-2023-procedural-tree-generator-244180)
+ **Outil Génératif** : Le générateur de signaux analogiques utilise un programme génératif pour adapter la croissance des arbres en fonction des fréquences sonores manipulées par l’interacteur. [Référence Outil Génératif](https://assetstore.unity.com/packages/tools/modeling/treegen-2023-procedural-tree-generator-244180)
 
 ---
 
@@ -69,9 +69,9 @@ L’interacteur apprendra que, tout comme dans la réalité, la **nature** réag
 
 Le **générateur de signaux analogiques** a été conçu pour refléter l’aspect scientifique et expérimental du laboratoire. Il doit être intuitif à utiliser tout en ayant une esthétique moderne et fonctionnelle.
 
-- **Apparence Rétro-Futuriste** : Le boîtier ressemble à un équipement de laboratoire, avec des curseurs, des boutons et des câbles métalliques, mais il reste simple et direct.
+ **Apparence Rétro-Futuriste** : Le boîtier ressemble à un équipement de laboratoire, avec des curseurs, des boutons et des câbles métalliques, mais il reste simple et direct.
   
-- **Feedback Visuel et Sonore** : Les ondes sonores générées par l’appareil affectent non seulement l’arbre mais aussi l’atmosphère. Des effets sonores et visuels réagiront aux fréquences créées, permettant à l’interacteur de suivre l’évolution de son environnement en temps réel.
+**Feedback Visuel et Sonore** : Les ondes sonores générées par l’appareil affectent non seulement l’arbre mais aussi l’atmosphère. Des effets sonores et visuels réagiront aux fréquences créées, permettant à l’interacteur de suivre l’évolution de son environnement en temps réel.
 
 ---
 
