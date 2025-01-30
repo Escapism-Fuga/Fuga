@@ -1,6 +1,6 @@
 # Abdel Ali Djeral
 
- ![Abdel](medias/abdel.png)
+ ![Abdel](10_equipe/medias/abdel.png)
 
  ## Réalisations
 
