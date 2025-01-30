@@ -43,15 +43,18 @@
 
 ## **Résumé du déroulement de l’expérience**
 
-1. **Entrée dans le laboratoire :** L'interacteur entre dans un laboratoire futuriste où un arbre unique, fragile et sans vie, est placé devant un **Générateur de Signaux Analogiques**.
-   
-2. **Interaction avec le Générateur de Signaux Analogiques :** L'interacteur prend le contrôle de l’appareil, modifie les fréquences, et observe les effets immédiats sur la croissance ou la dégradation de l'arbre.
-   
-3. **Feedback visuel et sonore :** En fonction des actions effectuées, l'arbre réagit en changeant de forme, de couleur et de taille. Si l'interacteur choisit des fréquences harmonieuses, l’arbre grandit et l’espace autour de lui devient plus vibrant. À l'inverse, des fréquences incorrectes provoquent la mort de l'arbre et la dégradation de l’environnement.
-   
-4. **Réflexion sur les choix :** L’interacteur est confronté aux conséquences de ses actions : chaque choix sonore a un impact direct sur la nature, ce qui pousse à réfléchir à l’utilisation responsable de la technologie.
+1. **Entrée dans le laboratoire :** L'interacteur entre dans un laboratoire futuriste et minimaliste, où un arbre unique, fragile et sans vie, est placé devant un **Générateur de Signaux Analogiques**. L’espace est éclairé de manière froide et scientifique, avec des écrans et des câbles visibles. L’interacteur est invité à mettre un casque audio, qui lui permettra de recevoir des instructions d’un scientifique.
 
-5. **Obtention du QR code NFT :** Si l’arbre grandit de manière saine, un QR code généré permet à l'interacteur de récupérer une empreinte numérique (NFT) de son arbre, symbolisant son impact positif dans le monde virtuel.
+2. **Instructions du scientifique (via le casque audio) :** Le scientifique guide l'interacteur et explique l’importance de l’expérience et de l’arbre réactif. Grâce au casque, l’interacteur apprend que cet arbre est génétiquement modifié pour être ultra-réactif aux fréquences sonores, une plante conçue pour démontrer l’impact de la technologie sur la nature. Le scientifique explique également comment manipuler le **Générateur de Signaux Analogiques** et l’importance de tester différentes fréquences pour influencer l’arbre.
+
+3. **Interaction avec le Générateur de Signaux Analogiques :** L’interacteur, guidé par le scientifique, commence à manipuler les différents réglages du générateur pour modifier les fréquences. Il observe les effets immédiats de chaque modification sur la croissance ou la dégradation de l'arbre. Le scientifique, par intermittence, décrit les effets visibles et met en lumière les fréquences bénéfiques ou nuisibles.
+
+4. **Feedback visuel et sonore :** En fonction des actions effectuées, l'arbre réagit en changeant de forme, de couleur et de taille. Si l'interacteur choisit des fréquences harmonieuses, l’arbre grandit et l’espace autour de lui devient plus vibrant et verdoyant. À l'inverse, des fréquences incorrectes ou perturbées provoquent la mort de l'arbre et la dégradation de l’environnement. Le casque continue à fournir des explications et des conseils pendant l'expérience.
+
+5. **Réflexion sur les choix :** L’interacteur prend conscience que chaque action sonore a un impact direct sur l'arbre et l'environnement. L’utilisation de la technologie de manière réfléchie et responsable est cruciale pour préserver l’écosystème autour de l’arbre.
+
+6. **Obtention du QR code NFT :** Si l’arbre grandit de manière saine grâce aux bons réglages de fréquence, un QR code est généré, permettant à l'interacteur de récupérer une empreinte numérique (NFT) de son arbre. Ce QR code symbolise son impact positif dans le monde virtuel et permet à l'interacteur de conserver une trace numérique de son action dans le monde physique.
+
 
 ---
 
