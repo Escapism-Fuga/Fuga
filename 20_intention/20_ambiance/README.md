@@ -13,8 +13,8 @@ Voici un visuel qui représentent l'atmosphère du projet :
 ## Ambiance Visuel
 
 l'ambiance visuel qui accompagne le projet :
-![Moodboard 1](../medias/389636728-c227bdaf-f4ad-4990-aaf6-a99df4f355b2.png)
-![Moodboard 1](../medias/389636728-c227bdaf-f4ad-4990-aaf6-a99df4f355b2.png)
+![Moodboard 1](../medias/sergey-grechanyuk-sci-fi-lab-concept-design-07-final-smaller.jpg)
+
 - [Magic Mushroom Forest | Trippy Animation](https://youtu.be/iFTr0yS2rG8)
 - [Realistic Tree Grow 3d Model | Procedural HIP Setup + Alembic Files (Animated)](https://youtu.be/MfMhxoc8SZ8)
 - [MAYA 3D - Reconstructions of the Mayan World](https://youtu.be/uCa-6X-3IF4)
