@@ -71,8 +71,6 @@ Le **générateur de signaux analogiques** a été conçu pour refléter l’asp
 
 - **Apparence Rétro-Futuriste** : Le boîtier ressemble à un équipement de laboratoire, avec des curseurs, des boutons et des câbles métalliques, mais il reste simple et direct.
   
-- **Écrans LED** : Des petits écrans affichent des informations en temps réel sur l’évolution de l’arbre et la réponse de l’environnement. Cela permet à l’interacteur de voir immédiatement les effets de ses actions.
-
 - **Feedback Visuel et Sonore** : Les ondes sonores générées par l’appareil affectent non seulement l’arbre mais aussi l’atmosphère. Des effets sonores et visuels réagiront aux fréquences créées, permettant à l’interacteur de suivre l’évolution de son environnement en temps réel.
 
 ---
