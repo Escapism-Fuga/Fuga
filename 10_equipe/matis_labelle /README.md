@@ -1,7 +1,7 @@
 # Matis Labelle
 
  ![Matis Labelle](medias/matis.png)
-g
+
  ## Réalisations
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
