@@ -73,7 +73,7 @@ Le **générateur de signaux analogiques** a été conçu pour refléter l’asp
   
 **Feedback Visuel et Sonore** : Les ondes sonores générées par l’appareil affectent non seulement l’arbre mais aussi l’atmosphère. Des effets sonores et visuels réagiront aux fréquences créées, permettant à l’interacteur de suivre l’évolution de son environnement en temps réel.
 
-![generateur](../medias/)
+![generateur](../medias/images.jpeg)
 
 ---
 
