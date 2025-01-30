@@ -1,6 +1,6 @@
 # Projet Interactif : **FUGA**
 
-### **Synopsis**
+![lab](../medias/sergey-grechanyuk-sci-fi-lab-concept-design-07-final-smaller.jpg)
 
 #### **Concept**
 L'histoire se déroule dans un laboratoire écologique de recherche futuriste. Les scientifiques ont développé une **plante ultra-réactive aux fréquences sonores**. Cette plante, un arbre unique, est capable de réagir instantanément aux ondes sonores produites par un générateur de signaux analogiques. L'interacteur est chargé de manipuler ces fréquences pour faire grandir l'arbre. Le projet démontre comment **la technologie peut être utilisée pour régénérer la nature**, mais aussi les dangers d'une mauvaise utilisation de cette technologie.
