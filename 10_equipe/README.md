@@ -2,9 +2,9 @@
 
 <!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
 
-* [![Matis](medias/matis.png)](matis.png)
-* [![Tristan](../Assets/Images/Membres/tristan_khadka/tristan.png)](tristan.png)
-* [![Daniel](medias/daniel.png)](daniel.png)
-* [![Abdel](medias/abdel.png)](abdel.png)
-* [![Yavuz](medias/yavuz.png)](yavuz.png)
+* [![Matis](../Assets/Images/Membres/matis_labelle/matis.png)]
+* [![Tristan](../Assets/Images/Membres/tristan_khadka/tristan.png)]
+* [![Daniel](../Assets/Images/Membres/tristan_khadka/tristan.png)]
+* [![Abdel](../Assets/Images/Membres/abdel_ali_djeral/abdel.png)]
+* [![Yavuz](../Assets/Images/Membres/yavuz_selim_gucluer/yavuz.png)]
 
