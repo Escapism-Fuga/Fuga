@@ -1,6 +1,6 @@
 # Tristan Khadka
 
- ![Tristan](medias/tristan.png)
+ ![Tristan](../medias/tristan.png)
 
  ## Réalisations
 
