@@ -1,6 +1,6 @@
 # Daniel Dezemma
 
- ![Daniel](medias/daniel.png)
+ ![Daniel](../medias/daniel.png)
 
  ## Réalisations
 
