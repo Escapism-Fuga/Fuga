@@ -11,4 +11,5 @@ Devis, Scénarimage et trouver le plug-in d'OSC dans unity
 
 ### Semaine 2
 Comprendre comment le plug-in d'OSC dans unity fonctionne, Arduino, Plug-data deux ports pour Reaper et Unity, Modélisation 3D
-* ![S2 Arduino](../../medias/osc_unity.png)
+* ![S2 Arduino](../../Assets/Images/Membres/yavuz_selim_gucluer/Arduino-semaine2.PNG)
+* ![S2 Reaper-Plugdata](../../Assets/Images/Membres/yavuz_selim_gucluer/reaper-plugdata-semaine2.PNG)
