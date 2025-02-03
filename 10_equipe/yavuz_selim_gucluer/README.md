@@ -1,6 +1,6 @@
 # Yavuz-Selim Gucluer
 
- ![Yavuz](../medias/yavuz.png)
+ ![Yavuz](../../Assets/Images/Membres/yavuz_selim_gucluer/yavuz.png)
 
  ## Réalisations
 
