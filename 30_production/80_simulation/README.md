@@ -2,7 +2,7 @@
 
 Voici les rendus 3d du projet :
 
-![3d1](medias/3d1.png)
+![3d1](../../Assets/Images/Simulation/simulation_3d1.png)
 ![3d2](../../Assets/Images/Simulation/simulation_3d2.png)
 
 <!--
