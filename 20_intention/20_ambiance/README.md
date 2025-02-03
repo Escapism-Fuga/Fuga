@@ -6,7 +6,7 @@ Découvrez l'ambiance visuelle et sonore de Fuga.
 
 Voici un visuel qui représentent l'atmosphère du projet :
 
-![Moodboard 1](../medias/389636728-c227bdaf-f4ad-4990-aaf6-a99df4f355b2.png)
+![Moodboard 1](../../Assets/Images/synopsis/moodboard.png)
 
 
 
