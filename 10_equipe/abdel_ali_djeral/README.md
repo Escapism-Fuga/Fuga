@@ -12,4 +12,4 @@ Gestion du projet (issues GitHub), compléter certaines parties du site web (la 
   
 ### Semaine 2
 Le code Unity (Mapping, gestion des données sur Unity, Coder certaines fonctionalités comme le clone et sauvegarder les données  )
-* ![S1 Outil génératif](medias/outil_generatif.png)
+* ![S1 Outil génératif](../../Assets/Images/Membres/abdel_ali_djeral/clone-reset.png)
