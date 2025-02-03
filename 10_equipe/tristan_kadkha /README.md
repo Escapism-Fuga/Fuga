@@ -17,4 +17,4 @@ Conception du projet sur Github
 ## semaine 2
 Design et ambiance sonore sur Ableton 
 
-* ![S2 Développement du concept](../../Assets/Images/Membres/tristan_khadka/sem2.jpg)
+* ![S2 Développement du concept](../../Assets/Images/Membres/tristan_khadka/sem2.png)
