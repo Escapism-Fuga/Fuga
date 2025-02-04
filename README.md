@@ -1,7 +1,6 @@
 # Fuga
 
-Sur la mystérieuse île de Germina, des chercheurs font la découverte d'un temple qui attise leur curiosité. Pendant leur fouille, ils tombent sur un parchemin et un boîtier étrange. L'île n'avait pas d'arbres quand les chercheurs sont arrivés, mais lorsqu'ils ressortent du temple, ils se retrouvent dans une forêt densément peuplée d'arbres aux couleurs étranges et à la silhouette difforme.
-
+Fuga est un projet immersif, où les interatcteurs peuvent créer des arbres à leur image grâce à un générateur de fréquence. Le tout créer un environement visuel et audio harmonieux et unique.
 
 ## Devrait être présent sur cette page:
 
