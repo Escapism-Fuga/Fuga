@@ -14,5 +14,6 @@ Conception du projet sur Github (La section des membres d'équipe, la liste des 
 ## semaine 2
 Réalisation du montage de la vidéo d'intention
 
+ ![realisation2](../../Assets/Images/Membres/daniel_dezemma/davinci-edit-1.png)
 
 
