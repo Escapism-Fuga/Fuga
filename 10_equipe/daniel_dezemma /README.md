@@ -15,4 +15,4 @@ Conception du projet sur Github (La section des membres d'équipe, la liste des 
 Réalisation du montage de la vidéo d'intention
 
 
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
+
