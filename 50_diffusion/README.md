@@ -9,7 +9,7 @@ Documentation du projet finalisé
 
 
 * Vidéo 
-  ![fuga-intention](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2138683_cmontmorency_qc_ca/ER7jSJ8PwbFDiJXoWhqYqkMBHPnqThqubPhjADuTfzAswQ?e=FAwOns)
+  https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2138683_cmontmorency_qc_ca/ER7jSJ8PwbFDiJXoWhqYqkMBHPnqThqubPhjADuTfzAswQ?e=FAwOns
 
 
 * Documentation vidéo de l'installation en action
