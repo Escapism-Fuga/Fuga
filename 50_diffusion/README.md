@@ -9,6 +9,9 @@ Documentation du projet finalisé
 
 
 * Vidéo 
+  ![fuga-intention](C:\Users\Danie\Downloads\fuga-intention.mp4)
+  C:\Users\Danie\Downloads\fuga-intention.mp4
+
 
 * Documentation vidéo de l'installation en action
 
