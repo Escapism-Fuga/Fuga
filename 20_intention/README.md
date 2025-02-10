@@ -1,6 +1,6 @@
 # Intentions
 
-[![alt text](https://youtu.be/rhUf4A05L-w)](https://www.youtube.com/watch?v=video-id)
+[![Vidéo d'intention](https://youtu.be/rhUf4A05L-w)](https://www.youtube.com/watch?v=video-id)
 
 
  <!-- start-replace-subnav -->  
