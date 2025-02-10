@@ -17,4 +17,6 @@ Réalisation du montage de la vidéo d'intention
 
  ![realisation2](../../Assets/Images/Membres/daniel_dezemma/davinci-edit-1.png)
 
+## semaine 3
+Correction du montage de la vidéo d'intention
 
