@@ -1,6 +1,6 @@
 * [Équipe](/10_equipe/)
-  * [Membre v](/10_equipe/membre_v/)
-  * [Membre W](/10_equipe/membre_w/)
+  * [Membre v](/10_equipe/abdel_ali_djeral/)
+  * [Membre W](/10_equipe/daniel_dezemma/)
   * [Membre x](/10_equipe/membre_x/)
   * [Membre y](/10_equipe/membre_y/)
   * [Membre z](/10_equipe/membre_z/)
