@@ -1,6 +1,7 @@
 # Intentions
 
-<video src="https://youtu.be/rhUf4A05L-w" width="320" height="240" controls></video>
+<iframe width="560" height="315" src="https://youtu.be/rhUf4A05L-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
  <!-- start-replace-subnav -->  
 * [Synopsis](/20_intention/10_synopsis/)
