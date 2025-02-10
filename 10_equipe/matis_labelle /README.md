@@ -15,4 +15,4 @@ Gestion de projet Github, Établir la connection entre Plug Data, Reaper et Unit
 
 ### Semaine 3
 Animation et fluidification de l'abre qui pousse
-<video src="" width="320" height="240" controls></video>
+<video src="Assets/video/anim-arbre.mkv" width="320" height="240" controls></video>
