@@ -1,13 +1,6 @@
 # Intentions
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/rhUf4A05L-w" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
 [![Vidéo d'intention](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
-
 
  <!-- start-replace-subnav -->  
 * [Synopsis](/20_intention/10_synopsis/)
