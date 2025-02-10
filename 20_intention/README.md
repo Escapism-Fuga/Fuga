@@ -1,6 +1,9 @@
 # Intentions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rhUf4A05L-w?si=wSQRUHOTaokTvgKe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/rhUf4A05L-w" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 [![Vidéo d'intention](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
