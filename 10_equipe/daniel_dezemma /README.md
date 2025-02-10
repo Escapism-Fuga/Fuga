@@ -19,4 +19,5 @@ Réalisation du montage de la vidéo d'intention
 
 ## semaine 3
 Correction du montage de la vidéo d'intention
+![relaisation3](../../Assets/Images/Membres/daniel_dezemma/relaisation3.PNG)
 
