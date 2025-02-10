@@ -12,3 +12,10 @@ Gestion du projet (issues GitHub) et trouver l'outil de génération d'arbre.
 ### Session 2
 Gestion de projet Github, Établir la connection entre Plug Data, Reaper et Unity. 
 * ![S2 connection entre Plug Data, Reaper et Unity](../../Assets/Images/Membres/matis_labelle/pd-to-ur.png)
+
+### Semaine 3
+Animation et fluidification de l'abre qui pousse
+<video width="320" height="240" controls>
+  <source src="../../Assets/video/anim-arbre.mkv" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
