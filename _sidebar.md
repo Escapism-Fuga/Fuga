@@ -1,5 +1,5 @@
 * [Équipe](/10_equipe/)
-  * [Abdel Ali DJeral](/10_equipe/abdel_ali_djeral/)
+  * [Abdel Ali Djeral](/10_equipe/abdel_ali_djeral/)
   * [Daniel Dezema](/10_equipe/daniel_dezemma/)
   * [Matis Labelle](/10_equipe/matis_labelle/)
   * [Tristan Kadkha](/10_equipe/tristan_kadkha/)
