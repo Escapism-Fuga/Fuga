@@ -1,6 +1,6 @@
 # Intentions
 
-![Vidéo d'intention](../../fuga-intention-v3.mp4)
+<video src="https://youtu.be/rhUf4A05L-w" width="320" height="240" controls></video>
 
  <!-- start-replace-subnav -->  
 * [Synopsis](/20_intention/10_synopsis/)
