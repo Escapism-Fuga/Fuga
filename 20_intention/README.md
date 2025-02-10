@@ -1,5 +1,7 @@
 # Intentions
 
+![Vidéo d'intention](../../fuga-intention-v3.mp4)
+
  <!-- start-replace-subnav -->  
 * [Synopsis](/20_intention/10_synopsis/)
 * [Ambiance](/20_intention/20_ambiance/)
