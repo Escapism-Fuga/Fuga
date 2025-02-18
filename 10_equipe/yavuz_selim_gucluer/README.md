@@ -18,3 +18,4 @@ Comprendre comment fonctionne le plug-in extOSC dans Unity, le code Arduino, les
 
 ### Semaine 4
 Ajouter des caméras sur Three.js pour avoir différents points de vue de l'arbre (devant, droite, gauche).
+* ![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/Camera_4.PNG)
