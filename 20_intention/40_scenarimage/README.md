@@ -8,6 +8,3 @@ Voici un scénarimage démontrant l'intéractivité de l'installation.
 ![scena4](../../Assets/Images/Scenarimages/scenarimage-4.jpg)
 ![scena5](../../Assets/Images/Scenarimages/scenarimage-5.jpg)
 
-## Réferences 
-
-[Scénarimage](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/40_scenarimage/)
