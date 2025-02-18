@@ -1,6 +1,6 @@
 # Tristan Khadka
  ![Tristan](../../Assets/Images/Membres/tristan_khadka/tristan.png)
- ## Réalisations
+### Réalisations
 ## semaine 1
 Conception du projet sur Github 
 1. Devis
