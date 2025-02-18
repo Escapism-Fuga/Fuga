@@ -25,7 +25,7 @@ Le générateur produit des ondes sonores qui influencent la croissance de l'arb
  **Sons déséquilibrés** : Si les fréquences sont trop aigües, trop graves ou mal ajustées, l'arbre ne pousse pas. Ses branches se fanent, les feuilles tombent, et l'environnement autour se détériore. Le sol devient sec, les couleurs de l'espace s'éteignent, et l'atmosphère se charge d'une ambiance stérile.
 
 ### **Le but de l'interaction**
-L'interacteur a pour mission de manipuler le générateur de signaux pour produire des sons qui favorisent la croissance de l'arbre. Il doit expérimenter les fréquences et ajuster les paramètres du générateur pour **trouver l'équilibre parfait**. Lorsque l'interacteur parvient à faire grandir l'arbre, il reçoit un QR code qui lui permet de récupérer une empreinte numérique de l'arbre sous forme de NFT, représentant son impact positif sur la nature.
+L'interacteur a pour mission de manipuler le générateur de signaux pour produire des sons qui favorisent la croissance de l'arbre. Il doit expérimenter les fréquences et ajuster les paramètres du générateur pour **trouver l'équilibre parfait**. 
 
 ---
 
