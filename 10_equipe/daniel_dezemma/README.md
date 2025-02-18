@@ -1,14 +1,24 @@
+# Abdel Ali Djeral
 
-# Daniel Dezemma
- ![Daniel](../../Assets/Images/Membres/daniel_dezemma/daniel.png)
+ ![Abdel](../../Assets/Images/Membres/abdel_ali_djeral/abdel.png)
+
  ## Réalisations
+
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
-## semaine 1
-Conception du projet sur Github (La section des membres d'équipe, la liste des logiciels utilisés, le texte sur les trois questions sur notre projet) 
- ![realisation1](../../Assets/Images/Membres/daniel_dezemma/realisation1.PNG)
-## semaine 2
-Réalisation du montage de la vidéo d'intention
- ![realisation2](../../Assets/Images/Membres/daniel_dezemma/davinci-edit-1.png)
-## semaine 3
-Correction du montage de la vidéo d'intention
-![relaisation3](../../Assets/Images/Membres/daniel_dezemma/relaisation3.PNG)
+
+### Semaine 1
+Gestion du projet (issues GitHub), compléter certaines parties du site web (la plantation, l'invenatire multimédia, le scénario et les assets) et comprendre en détails l'outils génératif
+* ![S1 Outil génératif](../../Assets/Images/Membres/matis_labelle/outil_generatif.png)
+  
+### Semaine 2
+Le code Unity (Mapping, gestion des données sur Unity, Coder certaines fonctionalités comme le clone et sauvegarder les données  )
+* ![S2 Code Unity](../../Assets/Images/Membres/abdel_ali_djeral/clone-reset.png)
+
+### Semaine 3
+Améliorer les "presets" pour enlever le plus de délai possible.
+* ![S3 Code Smooth](../../Assets/Images/Membres/abdel_ali_djeral/semaine_3.PNG)
+
+### Semaine 4
+Récupere et connecter les données envoyées par nos sliders, encoders et boutons avec les paramètres de l'arbre sur le Tree.js.
+* ![S4 Code Tree.js](../../Assets/Images/Membres/abdel_ali_djeral/semaine_4.PNG)
+
