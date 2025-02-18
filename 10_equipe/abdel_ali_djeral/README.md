@@ -17,3 +17,8 @@ Le code Unity (Mapping, gestion des données sur Unity, Coder certaines fonction
 ### Semaine 3
 Améliorer les "presets" pour enlever le plus de délai possible.
 * ![S1 Outil génératif](../../Assets/Images/Membres/abdel_ali_djeral/semaine_3.PNG)
+
+### Semaine 4
+Récupere et connecter les données envoyées par nos sliders, encoders et boutons avec les paramètres de l'arbre sur le Tree.js.
+* ![S1 Outil génératif](../../Assets/Images/Membres/abdel_ali_djeral/semaine_4.PNG)
+
