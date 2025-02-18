@@ -1,7 +1,7 @@
 # Intentions
 
 ## Cliquez ici, pour voir notre vidéo d'intention
-[![Vidéo d'intention](../Assets/Images/synopsis/miniature-intention.png)]((https://youtu.be/rhUf4A05L-w))
+[![Vidéo d'intention](../Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
 
  <!-- start-replace-subnav -->  
 * [Synopsis](/20_intention/10_synopsis/)
