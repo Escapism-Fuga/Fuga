@@ -4,11 +4,11 @@ Voici le diagramme qui explique la communication inter logiciel dans l'ordinateu
 
 ````mermaid
 graph TD
-    A[Virtual Keyboard de Reaper] -->|Envoie du son| B[Plug-Data 1]
-    B -->|Analyse le son reçu| C[LoopMIDI]
-    C -->|Transmet les données MIDI| D[Plug-Data 2]
-    D -->|Traite les infos reçues| E[OSC]
-    E -->|Envoi des données en OSC| F[Unity]
+    A[Arduino] -->|Envoie des données| B[OSCBridge]
+    B -->|WebSocket| C[Three.js]
+    B -->|UDP| D[Plug-Data]
+    D -->|Traite les infos reçues| E[Reaper]
+
 ````
 
 Voici un diagramme expliquant la communication des différents élément présentes lors de l'installation.
@@ -19,7 +19,6 @@ graph TD
     
     subgraph Éléments_Audio
         Synthé["Synthétiseur"]
-        Micro["Micro"]
         HP["Haut-parleurs"]
         CarteSon["Carte son"]
     end
@@ -47,7 +46,6 @@ graph TD
     %% Connexions Audio
     Ordinateur --> |Connexion| CarteSon
     Synthé --> |Entrée/Sortie audio| CarteSon
-    Micro --> |Entrée audio| CarteSon
     HP --> |Sortie audio| CarteSon
 
     %% Connexions Vidéo
