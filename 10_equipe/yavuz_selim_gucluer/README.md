@@ -19,12 +19,13 @@ Comprendre comment fonctionne le plug-in extOSC dans Unity, le code Arduino, les
 -----------------------------
 
 ### Semaine 3
-
+Configurer le splicing pour afficher sur 3 écrans différents.
+![S3 Splicing](../../Assets/Images/Membres/yavuz_selim_gucluer/Camera_4.PNG)
 
 -----------------------------
 
 ### Semaine 4
-Ajouter des caméras sur Three.js pour avoir différents points de vue de l'arbre (devant, droite, gauche).
+Ajouter des caméras sur Three.js pour avoir différents points de vue de l'arbre (devant, droite, gauche). Cela sera divisé sur les 3 écrans avec un spliter.
 ![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/Camera_4.PNG)
 
 -----------------------------
