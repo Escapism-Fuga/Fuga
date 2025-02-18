@@ -10,16 +10,16 @@ Voici un visuel qui représentent l'atmosphère du projet :
 
 
 
-## Ambiance Visuel
+## Ambiance visuelle
 
-l'ambiance visuel qui accompagne le projet :
+l'ambiance visuelle qui accompagne le projet :
 
 - [Magic Mushroom Forest | Trippy Animation](https://youtu.be/iFTr0yS2rG8)
 - [Realistic Tree Grow 3d Model | Procedural HIP Setup + Alembic Files (Animated)](https://youtu.be/MfMhxoc8SZ8)
 - [MAYA 3D - Reconstructions of the Mayan World](https://youtu.be/uCa-6X-3IF4)
 
 
-## Ambiance Sonore
+## Ambiance sonore
 
 Écoutez l'ambiance sonore qui accompagne le projet :
 
