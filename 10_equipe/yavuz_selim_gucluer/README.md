@@ -20,7 +20,7 @@ Comprendre comment fonctionne le plug-in extOSC dans Unity, le code Arduino, les
 
 ### Semaine 3
 Configurer le splicing pour afficher sur 3 écrans différents.
-![S3 Splicing](../../Assets/Images/Membres/yavuz_selim_gucluer/Camera_4.PNG)
+![S3 Splicing](../../Assets/Images/Membres/yavuz_selim_gucluer/Splicin_4k.JFIF)
 
 -----------------------------
 
