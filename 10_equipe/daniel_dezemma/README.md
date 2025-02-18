@@ -11,3 +11,6 @@ Réalisation du montage de la vidéo d'intention
 ### semaine 3
 Correction du montage de la vidéo d'intention
 ![relaisation3](../../Assets/Images/Membres/daniel_dezemma/relaisation3.PNG)
+### semaine 4 
+Installation physique de l'espace
+![daniel-semaine4](../../Assets/Images/Membres/daniel_dezemma/daniel-semain4.jfif)
