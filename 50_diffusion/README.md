@@ -8,8 +8,7 @@ Documentation du projet finalisé
 * ![Image 4](https://placehold.co/400x400?text=4+image)
 
 
-* Vidéo
-  https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2138683_cmontmorency_qc_ca/ER7jSJ8PwbFDiJXoWhqYqkMBHPnqThqubPhjADuTfzAswQ?e=FAwOns
+* [![Vidéo d'intention](../Assets/Images/synopsis/miniature-intention.png)(https://youtu.be/rhUf4A05L-w)
 
 
 * Documentation vidéo de l'installation en action
