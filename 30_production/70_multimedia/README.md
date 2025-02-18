@@ -7,14 +7,7 @@
 -  son lorsque la plante meurt
 
 ## Images
--  Parchemin
--  Décor synthétiseur
+-  Décor projection
 
-## 3d
--  Arbre
--  bourgeons
--  feuilles
--  branches
--  temple
--  paysage
+
 
