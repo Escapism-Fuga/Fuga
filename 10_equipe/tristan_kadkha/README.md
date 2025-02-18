@@ -11,3 +11,9 @@ Conception du projet sur Github
 ## semaine 2
 Design et ambiance sonore sur Ableton 
 * ![S2 Développement du concept](../../Assets/Images/Membres/tristan_khadka/sem2.png)
+* ## semaine 3
+Mixing sur Reaper et créations de sons et leur variantes
+* ![S3 Sons sur reaper](../../Assets/Images/Membres/tristan_khadka/semaine3.PNG)
+* ## semaine 4
+Implémantation des sons et leurs données sur Plugdata
+* ![S4 Développement du concept](../../Assets/Images/Membres/tristan_khadka/semaine4.PNG)
