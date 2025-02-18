@@ -1,8 +1,7 @@
 # Technologies 
 ### **Matériel :**  
 1. **Instrument de musique :**  
-   - Synthétiseur
-   - Microphone
+   - Générateur de fréquence
 2. **Télévisions :**  
    - Affichage de la plante 3D en temps réel. 
 3. **Haut-parleurs (2 unités) :**  
@@ -14,20 +13,12 @@
    - Cartes d'aquisition: audio, vidéo
 
 ### **Logiciels :**  
-1. **Unity :**
-  - Génération des sons et leur modulation par le M5Stack Button.
+1. **Tree.js :**
+  - Génération des arbres
 2. **Reaper :**  
    - Génération des sons et leur modulation par le M5Stack Button.  
 3. **QLC+ :**  
    - Contrôle des lumières
-4. **OBS**
-     - Création et intéraction sonnore
-5. **Maya**
-   - Création de modele 3D
-6. **PlugData**
+4. **PlugData**
    - Communication entre le matériel et le logiciel Unity. 
-
-## Références
-
-* [Technologies](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/40_technologie/)
 
