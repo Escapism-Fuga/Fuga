@@ -11,34 +11,22 @@
 #### Accessoires pour haut-parleurs
 - **2 Câbles XLR**  
   - [AmazonBasics Câble XLR (x2)](https://www.amazon.ca/AmazonBasics-C%C3%A2ble-microphone-m%C3%A2le-femelle/dp/B01JNLTTKS)
-- **2 Rallonges électriques**  
+- **5 Rallonges électriques**  
   - [Coleman Rallonge domestique (x2)](https://www.amazon.ca/-/fr/Coleman-2611-Rallonge-domestique-broches/dp/B003RRWWCW)
-- **2 Câbles Ethernet**  
+- **6 Câbles Ethernet**  
   - [Câble Ethernet Cat8 (x2)](https://www.amazon.ca/C%C3%A2ble-Ethernet-Cat8-Gbit-000/dp/B089B1YVM7)
-- **1 Carte de son**  
-  - [Behringer UMC1820 Audiophile Interface (x1)](https://www.amazon.ca/-/fr/Behringer-UMC1820-Audiophile-Interface-pr%C3%A9amplificateurs/dp/B01EXI8Y9S)
 
 ### Matériel Vidéo
-- **3 Télévisions**  
+- **3 Écrans**  
   - [Banq ET-0023-t]()
-- **3 Câbles HDMI**  
+- **7 Câbles HDMI**  
   - [AmazonBasics Câble HDMI (x3)](https://www.amazon.ca/AmazonBasics-Compatible-Ethernet-retour-Nouvelles/dp/B014I8SIJY)
-- **Poids pour stabiliser la poutre**  
-  - [Impact Saddle Shot Bag (x1)](https://www.bhphotovideo.com/c/product/1731728-REG/impact_ssb_15_saddle_shot_bag_15.html)
-  - **Poteaux pour les télévisions** 
-
-### Assets 3D
-- **Modèles 3D** pour intégration dans Unity et/ou TouchDesigner
-- **Textures et matériaux** associés
-- **Animations 3D** nécessaires à la présentation
-
----
+- **Poteaux pour les télévisions** 
 
 ## Fournis par nous
 
 ### Logiciels et Outils de Développement
-- **Unity** (version et plugins nécessaires)
-- **TouchDesigner** (version et plugins nécessaires)
+- **Tree.Js**
 - **Reaper** (version et plugins nécessaires)
 - **Plugdata** (version et plugins nécessaires)
 
