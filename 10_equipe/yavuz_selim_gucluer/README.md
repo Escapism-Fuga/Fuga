@@ -34,6 +34,6 @@ Ajouter des caméras sur Three.js pour avoir différents points de vue de l'arbr
 ### Semaine 5
 J'ai modifié la position des caméras pour obtenir une meilleure perspective de l'arbre et j'ai ajouté un arrière-plan HDRI.
 
-![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/background-hdri.PNG)
+![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/background-hdri.jfif)
 
 -----------------------------
