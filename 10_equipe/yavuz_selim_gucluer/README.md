@@ -26,6 +26,14 @@ Configurer le splicing pour afficher sur 3 écrans différents.
 
 ### Semaine 4
 Ajouter des caméras sur Three.js pour avoir différents points de vue de l'arbre (devant, droite, gauche). Cela sera divisé sur les 3 écrans avec un spliter.
+
+![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/Camera_4.PNG)
+
+-----------------------------
+
+### Semaine 5
+J'ai modifié la position des caméras pour obtenir une meilleure perspective de l'arbre et j'ai ajouté un arrière-plan HDRI.
+
 ![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/Camera_4.PNG)
 
 -----------------------------
