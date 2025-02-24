@@ -23,4 +23,4 @@ Récupere et connecter les données envoyées par nos sliders, encoders et bouto
 
 ### Semaine 5
 Connection UDP des 3 nouveaux Atom vers les deux ordinateurs.
-* ![S5 UDP](../../Assets/Images/Membres/matis_labelle/udp.PNG)
+* ![S5 UDP](../../Assets/Images/Membres/matis_labelle/udp.jpg)
