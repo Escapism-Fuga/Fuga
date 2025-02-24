@@ -22,3 +22,8 @@ Améliorer les "presets" pour enlever le plus de délai possible.
 Récupere et connecter les données envoyées par nos sliders, encoders et boutons avec les paramètres de l'arbre sur le Tree.js.
 * ![S4 Code Tree.js](../../Assets/Images/Membres/abdel_ali_djeral/semaine_4.PNG)
 
+### Semaine 5
+Changer les paramètres que l'on peut modifier + intégrer la modification de couleur des feuilles
+* ![S5 Changer Couleur](../../Assets/Images/Membres/abdel_ali_djeral/VSC-Arbre-Sem5.png)
+
+
