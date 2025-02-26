@@ -17,3 +17,6 @@ Mixing sur Reaper et créations de sons et leur variantes
 * ## semaine 4
 Implémantation des sons et leurs données sur Plugdata
 * ![S4 Développement du concept](../../Assets/Images/Membres/tristan_khadka/semaine4.PNG)
+  * ## semaine 5
+continuer le mapping et design sonore mixant reaper et pluggdata pour l'interactivité
+* ![S4 Développement du concept](../../Assets/Images/Membres/tristan_khadka/semaine5.PNG)
