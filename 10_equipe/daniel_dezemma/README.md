@@ -14,3 +14,6 @@ Correction du montage de la vidéo d'intention
 ### semaine 4 
 Installation physique de l'espace
 ![daniel-semaine4](../../Assets/Images/Membres/daniel_dezemma/daniel-semain4.jfif)
+### semaine 5
+Installation de l'audio de l'interface physique
+![daniel-semaine5](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine5.jfif)
