@@ -10,7 +10,7 @@ Réalisation du montage de la vidéo d'intention
  ![realisation2](../../Assets/Images/Membres/daniel_dezemma/davinci-edit-1.png)
 ### semaine 3
 Correction du montage de la vidéo d'intention
-![relaisation3](../../Assets/Images/Membres/daniel_dezemma/relaisation3.PNG)
+![realisation3](../../Assets/Images/Membres/daniel_dezemma/relaisation3.PNG)
 ### semaine 4 
 Installation physique de l'espace
 ![daniel-semaine4](../../Assets/Images/Membres/daniel_dezemma/daniel-semain4.jfif)
