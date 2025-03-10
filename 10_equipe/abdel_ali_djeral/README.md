@@ -26,4 +26,9 @@ Récupere et connecter les données envoyées par nos sliders, encoders et bouto
 Changer les paramètres que l'on peut modifier + intégrer la modification de couleur des feuilles
 * ![S5 Changer Couleur](../../Assets/Images/Membres/abdel_ali_djeral/VSC-Arbre-Sem5.png)
 
+### Semaine 6
+Créer trois instances d'arbres pour permettre à plusieurs personnes d'interagir avec le projet, ajouter plus d'interactivité en intégrant des fonctionnalités, faire en sorte que l'arbre grandisse lorsqu'il reçoit de l'interaction et meurt s'il ne reçoit rien
+* ![S6 Trois instances d'arbres](../../Assets/Images/Membres/abdel_ali_djeral/semaine_6_ObsTroisArbres.PNG)
+
+
 
