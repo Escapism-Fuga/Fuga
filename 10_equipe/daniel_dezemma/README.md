@@ -19,3 +19,4 @@ Installation de l'audio de l'interface physique
 ![daniel-semaine5](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine5.jfif)
 ### semaine 6
 Installation de l'audio de l'interface physique
+![daniel-semaine6](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine6.jfif)
