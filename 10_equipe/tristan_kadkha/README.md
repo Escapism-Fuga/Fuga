@@ -19,4 +19,7 @@ Implémantation des sons et leurs données sur Plugdata
 * ![S4 Développement du concept](../../Assets/Images/Membres/tristan_khadka/semaine4.PNG)
   * ## semaine 5
 continuer le mapping et design sonore mixant reaper et pluggdata pour l'interactivité
-* ![S4 Développement du concept](../../Assets/Images/Membres/tristan_khadka/semaine5.PNG)
+* ![S5 Développement du concept](../../Assets/Images/Membres/tristan_khadka/semaine5.PNG)
+   * ## semaine 6
+Création et design du Logo Fuga et continuation du mapping sonore.
+* ![S6 Logo](../../Assets/Images/logo/logo.jfif)
