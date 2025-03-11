@@ -4,12 +4,7 @@
 
 Fuga est un projet immersif, où les interatcteurs peuvent créer des arbres à leur image grâce à un générateur de fréquence. Le tout créer un environement visuel et audio harmonieux et unique.
 
-
-
-* Documentation vidéo de l'installation en action
-* Gallerie photo du projet réalisé
-
-## Gallerie image exemple
+## Gallerie
 
 * ![Image 1](https://placehold.co/400x400?text=1+image)
 * ![Image 2](https://placehold.co/400x400?text=2+image)
