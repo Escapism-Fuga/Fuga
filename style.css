@@ -1,10 +1,6 @@
 :root {
     --theme-hue: 330; /* Default hue value, adjust this to change the color */
-    --theme-brightness: 70%; /* Default brightness value, can be adjusted */
-    
-    --theme-color: hsl(var(--theme-hue), 100%, var(--theme-brightness)); /* Use brightness variable */
-    --theme-color-hover: hsl(var(--theme-hue), 100%, calc(var(--theme-brightness) + 5%)); /* Slightly brighter on hover */
-   
+    --theme-brightness: 70%; /* Default brightness value, can be adjusted */  
     --theme-border: rgba(0, 0, 0, 0.07);
     --theme-highlight: green; /* Highlight color */
     --theme-highlight-text: #ffffff;
@@ -702,7 +698,7 @@
   
   section.cover .cover-main > p:last-child a {
     border-radius: 2rem;
-    border: 1px solid var(--theme-highlight);
+    border: 1px solid green;
     box-sizing: border-box;
     color: var(--theme-highlight);
     display: inline-block;
@@ -729,7 +725,7 @@
   }
   
   section.cover blockquote > p > a {
-    border-bottom: 2px solid var(--theme-highlight);
+    border-bottom: 2px solid green;
     transition: color .3s;
   }
   
@@ -794,6 +790,13 @@
     color: #386641;
     font-weight: 600;
   }
+
+  figcaption {
+    text-shadow: 0 0 
+    10px #386641, 0 0 100px ;
+    color: #386641;
+    font-size: 1.4rem;
+  }
   
   .markdown-section h1 {
     font-size: 2rem;
@@ -841,7 +844,7 @@
   }
   
   .markdown-section blockquote {
-    border-left: 4px solid var(--theme-highlight);
+    border-left: 4px solid green;
     color: #858585;
     margin: 2em 0;
     padding-left: 20px;
@@ -1011,7 +1014,7 @@
   
   .token.function,
   .token.keyword {
-    color: #e96900;
+    color: #386641;
   }
   
   .token.atrule,
@@ -1044,7 +1047,7 @@
   }
   
   .token.important {
-    color: #c94922;
+    color: #386641;
   }
   
   .token.entity {
