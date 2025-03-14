@@ -6,7 +6,7 @@
     --theme-color-hover: hsl(var(--theme-hue), 100%, calc(var(--theme-brightness) + 5%)); /* Slightly brighter on hover */
    
     --theme-border: rgba(0, 0, 0, 0.07);
-    --theme-highlight: hsl(var(--theme-hue), 100%, var(--theme-brightness)); /* Highlight color */
+    --theme-highlight: green; /* Highlight color */
     --theme-highlight-text: #ffffff;
     --theme-link: hsl(var(--theme-hue), 100%, var(--theme-brightness));
     --theme-link-hover: hsl(var(--theme-hue), 100%, calc(var(--theme-brightness) + 5%)); /* Hover brightness */
@@ -19,6 +19,7 @@
     --sidebar-active-text: rgba(57,162,8,1) 47%;
   }
   
+/*
   @media (prefers-color-scheme: dark) {
     :root {
       --theme-background: #1e1e1e;
@@ -27,15 +28,15 @@
       --theme-bold-text: #ffffff;
       --code-background: #2d2d2d;
       --code-text: #cccccc;
-      --code-syntax: hsl(var(--theme-hue), 100%, calc(var(--theme-brightness) - 20%));
+      /*--code-syntax: hsl(var(--theme-hue), 100%, calc(var(--theme-brightness) - 20%));
       --sidebar-background: #2e2e2e;
       --sidebar-text: #ffffff;
       .markdown-section tr:nth-child(even) {
-        background-color: #3d3d3d; /* Darken the background for even rows */
+        background-color: #3d3d3d; /* Darken the background for even rows 
       }
   
     }
-  }
+  }*/
   
   
   * {
@@ -84,7 +85,7 @@
   }
   
   .progress {
-    background-color: var(--theme-highlight);
+    background-color: #386641;
     height: 2px;
     left: 0;
     position: fixed;
@@ -97,7 +98,7 @@
   
   .search .search-keyword,
   .search a:hover {
-    color: var(--theme-link-hover);
+    color: green;
   }
   
   .search .search-keyword {
@@ -108,24 +109,23 @@
   body,
   html {
     height: 100%;
+    background: #a6c48a;
   }
   
   body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    color: var(--theme-text);
+    color: green;
     font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
     font-size: 15px;
     letter-spacing: 0;
     margin: 0;
     overflow-x: hidden;
-    background-color: var(--theme-background);
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, #46782f);
+    
   }
   
   img {
-    max-width: 100%;
+    max-width: 90%;
   }
   
   a[disabled] {
@@ -134,7 +134,7 @@
   }
   
   kbd {
-    border: 1px solid #ccc;
+    border: 1px solid #6a994e;
     border-radius: 3px;
     display: inline-block;
     font-size: 12px !important;
@@ -178,7 +178,7 @@
   }
   
   .app-nav a {
-    color: inherit;
+    color: #6a994e;
     font-size: 16px;
     text-decoration: none;
     transition: color .3s;
@@ -186,11 +186,11 @@
   
   .app-nav a.active,
   .app-nav a:hover {
-    color: var(--theme-link-hover);
+    color: #6a994e;
   }
   
   .app-nav a.active {
-    border-bottom: 2px solid var(--theme-link-hover);
+    border-bottom: 2px solid #6a994e;
   }
   
   .app-nav li {
@@ -202,9 +202,8 @@
   }
   
   .app-nav li ul {
-    background-color: #fff;
+    background-color: #6a994e;
     border: 1px solid;
-    border-color: #ddd #ddd #ccc;
     border-radius: 4px;
     box-sizing: border-box;
     display: none;
@@ -255,8 +254,8 @@
   }
   
   .github-corner svg {
-    color: var(--theme-highlight-text);
-    fill: var(--theme-highlight);
+    color: #6a994e;
+    fill: green;
     height: 40px; /* Reduced by 50% */
     width: 40px; /* Reduced by 50% */
   }
@@ -280,7 +279,7 @@
   }
   
   .anchor span {
-    color: #1e1e1e;
+    color: #386641;
   }
   
   .anchor:hover {
@@ -288,7 +287,7 @@
   }
   
   .sidebar {
-    border-right: 1px solid var(--theme-border);
+    border-right: 1px solid #a6c48a;
     overflow-y: auto;
     padding: 40px 0 0;
     position: absolute;
@@ -298,7 +297,8 @@
     transition: transform .25s ease-out;
     width: 300px;
     z-index: 20;
-    background-color: var(--sidebar-background);
+    color: #386641;
+    background-color: #a6c48a;
   }
   
   .sidebar > h1 {
@@ -345,7 +345,7 @@
   .sidebar ul li a {
     border-bottom: none;
     display: block;
-    color: #ffffff;
+    color: #386641;
   }
   
   .sidebar ul li ul {
@@ -362,16 +362,15 @@
   }
   
   .sidebar:hover::-webkit-scrollbar-thumb {
-    background: hsla(0, 0%, 53.3%, .4);
+    background-color: #85a26a;
   }
   
   .sidebar:hover::-webkit-scrollbar-track {
-    background: hsla(0, 0%, 53.3%, .1);
+    background-color: #85a26a;
   }
   
   .sidebar-toggle {
     background-color: transparent;
-    background-color: hsla(0, 0%, 100%, .8);
     border: 0;
     outline: none;
     padding: 10px;
@@ -390,7 +389,7 @@
   }
   
   .sidebar-toggle span {
-    background-color: var(--theme-highlight);
+    background-color: #386641;
     display: block;
     margin-bottom: 4px;
     width: 16px;
@@ -465,12 +464,12 @@
   
   .markdown-section p.tip,
   .markdown-section tr:nth-child(2n) {
-    background-color: #f8f8f8;
+    background-color: #386641;
   }
   
   .markdown-section p.tip {
     border-bottom-right-radius: 2px;
-    border-left: 4px solid #f66;
+    border-left: 4px solid #386641;
     border-top-right-radius: 2px;
     margin: 2em 0;
     padding: 12px 24px 12px 30px;
@@ -480,7 +479,7 @@
   .markdown-section p.tip:before {
     background-color: #1e1e1e;
     border-radius: 100%;
-    color: #fff;
+    color: #386641;
     content: "!";
     font-family: Dosis, Source Sans Pro, Helvetica Neue, Arial, sans-serif;
     font-size: 14px;
@@ -495,11 +494,11 @@
   }
   
   .markdown-section p.tip code {
-    background-color: #efefef;
+    background-color: #386641;
   }
   
   .markdown-section p.tip em {
-    color: var(--theme-text);
+    color: 386641;
   }
   
   .markdown-section p.warn {
@@ -583,7 +582,7 @@
     }
   
     body.close .sidebar-toggle {
-      background-color: hsla(0, 0%, 100%, .8);
+      background: transparent;
       transition: background-color 1s;
       width: 284px;
       padding: 10px;
@@ -744,7 +743,7 @@
   }
   
   .sidebar {
-    color: #ffffff;
+    color: #386641
   }
   
   .sidebar li {
@@ -752,7 +751,7 @@
   }
   
   .sidebar ul li a {
-    color: #ffffff;
+    color: #386641;
     font-size: 14px;
     font-weight: 400;
     overflow: hidden;
@@ -763,6 +762,7 @@
   
   .sidebar ul li a:hover {
     text-decoration: underline;
+    color: green;
   }
   
   .sidebar ul li ul {
@@ -786,12 +786,12 @@
   .markdown-section h3,
   .markdown-section h4,
   .markdown-section strong {
-    color: var(--theme-bold-text);
+    color: #386641;
     font-weight: 600;
   }
   
   .markdown-section a {
-    color: #efefef;
+    color: #386641;
     font-weight: 600;
   }
   
