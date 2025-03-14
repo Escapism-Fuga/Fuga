@@ -12,11 +12,14 @@ Réalisation du montage de la vidéo d'intention
 Correction du montage de la vidéo d'intention
 ![realisation3](../../Assets/Images/Membres/daniel_dezemma/relaisation3.PNG)
 ### semaine 4 
-Installation physique de l'espace
+Installation physique de l'espace 
 ![daniel-semaine4](../../Assets/Images/Membres/daniel_dezemma/daniel-semain4.jfif)
 ### semaine 5
-Installation de l'audio de l'interface physique
+Installation de l'audio de l'interface physique (haut-parleurs)
 ![daniel-semaine5](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine5.jfif)
 ### semaine 6
-Installation de l'audio de l'interface physique
+Installation de lumières de l'interface physique (projecteurs) et montage making of
+![daniel-semaine6](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine6.jfif)
+### semaine 7
+Configuration des lumières et montage bande-annonce
 ![daniel-semaine6](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine6.jfif)
