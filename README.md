@@ -1,8 +1,8 @@
 # Fuga
 
-[![Vidéo d'intention](Assets/Images/logo/logo.jfif)](https://youtu.be/rhUf4A05L-w)
+Fuga est une installation interactive où l'on peut créer son propre arbre personnalisée. Chaque interacteur a pour mission de manipuler un générateur de signaux fait maison pour produire des sons qui favorisent la croissance de l'arbre. Il faut donc expérimenter les fréquences et ajuster les paramètres du générateur pour trouver l'équilibre parfait. Le tout engendre un environnement visuel et sonore harmonieux ainsi qu'unique. Ce projet vise à démontrer que, lorsque la technologie est utilisée de manière responsable et réfléchie, elle peut soutenir et renforcer la nature. 
 
-Fuga est un projet immersif, où les interatcteurs peuvent créer des arbres à leur image grâce à un générateur de fréquence. Le tout créer un environement visuel et audio harmonieux et unique.
+[![Vidéo d'intention](Assets/Images/logo/logo.jfif)](https://youtu.be/rhUf4A05L-w)
 
 ## Gallerie
 
