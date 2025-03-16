@@ -5,7 +5,7 @@ Fuga est une installation interactive où l'on peut créer son propre modèle d'
 ![](Assets/Images/logo/logo.jfif)
 
 ## Video d'intention
-[![Vidéo explicative](https://img.youtube.com/vi/rhUf4A05L-w/0.jpg)](https://youtu.be/rhUf4A05L-w)
+[!][Vidéo explicative](https://img.youtube.com/vi/rhUf4A05L-w/0.jpg)](https://youtu.be/rhUf4A05L-w)
 
 ## Gallerie
 
