@@ -1,4 +1,4 @@
-![](Assets/Images/logo/logo.jfif)
+![fuga](Assets/Images/logo/logo.jfif)
 # Fuga
 
 
