@@ -15,7 +15,7 @@ Documentation du projet finalisé
 [![Vidéo promotionnel](/50_diffusion/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
 
 ## Video making of 
-[![Vidéo promotionnel](Assets/Images/Realisation/fuga-teaser.jpg)](https://youtu.be/vc4ROoVuDpA)
+[![Vidéo making-of](/50_diffusion/making-off-miniature.PNG)](https://youtu.be/vc4ROoVuDpA)
 
 
 * Manuel d'instruction pour opération
