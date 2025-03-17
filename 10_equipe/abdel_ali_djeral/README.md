@@ -30,5 +30,7 @@ Changer les paramètres que l'on peut modifier + intégrer la modification de co
 Créer trois instances d'arbres pour permettre à plusieurs personnes d'interagir avec le projet, ajouter plus d'interactivité en intégrant des fonctionnalités, faire en sorte que l'arbre grandisse lorsqu'il reçoit de l'interaction et meurt s'il ne reçoit rien
 * ![S6 Trois instances d'arbres](../../Assets/Images/Membres/abdel_ali_djeral/semaine_6_ObsTroisArbres.PNG)
 
-
+### Semaine 7
+Finaliser les MVP et les NTH, améliorer les performances et le coté UI.
+* ![S7 MVP et NTH](../../Assets/Images/Membres/abdel_ali_djeral/semaine_7.PNG)
 
