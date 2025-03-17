@@ -13,10 +13,10 @@ Fuga est une installation interactive où l'on peut créer son propre modèle d'
 
 ## Gallerie
 
-* ![Image 1](Assets/Images/maquette/ecran1.jpg)
-* ![Image 1](Assets/Images/maquette/face.jpg)
-* ![Image 1](Assets/Images/maquette/haut.jpg)
-* ![Image 1](Assets/Images/maquette/support.jpg)
-* ![Image 1](Assets/Images/maquette/ecran.jpg)
-* ![Image 1](Assets/Images/maquette/vue-haut.jpg)
+* ![écran](Assets/Images/maquette/ecran1.jpg)
+* ![vue-face](Assets/Images/maquette/face.jpg)
+* ![vue-haut](Assets/Images/maquette/haut.jpg)
+* ![support](Assets/Images/maquette/support.jpg)
+* ![vue-écran](Assets/Images/maquette/ecran.jpg)
+* ![interaction](Assets/Images/maquette/vue-haut.jpg)
 
