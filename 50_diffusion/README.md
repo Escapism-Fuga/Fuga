@@ -12,7 +12,7 @@ Documentation du projet finalisé
 * [![Vidéo explicative](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
 
 ## Video bande-annonce
-* [![Vidéo promotionnel](Assets/Images/Realisation/fuga-teaser.jpg)](https://www.youtube.com/watch?v=jfzWsbKjIEo)
+[![Vidéo promotionnel](Assets/Images/Realisation/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
 
 ## Video making of 
 [![Vidéo promotionnel](Assets/Images/Realisation/fuga-teaser.jpg)](https://youtu.be/vc4ROoVuDpA)
