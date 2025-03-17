@@ -2,20 +2,20 @@
 
 Documentation du projet finalisé 
 
-* ![écran1](/50_diffusion/ecran1.jpg)
-* ![face](/50_diffusion/face.jpg)
-* ![haut](/50_diffusion/haut.jpg)
-* ![support](/50_diffusion/support.jpg)
+* ![écran1](50_diffusion/ecran1.jpg)
+* ![face](50_diffusion/face.jpg)
+* ![haut](50_diffusion/haut.jpg)
+* ![support](50_diffusion/support.jpg)
 
 
 ## Video d'intention
  [![Vidéo explicative](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
 
 ## Video bande-annonce
- [![Vidéo promotionnel](/50_diffusion/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
+ [![Vidéo promotionnel](50_diffusion/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
 
 ## Video making of 
- [![Vidéo making-of](/50_diffusion/making-off-miniature.PNG)](https://youtu.be/vc4ROoVuDpA)
+ [![Vidéo making-of](50_diffusion/making-off-miniature.PNG)](https://youtu.be/vc4ROoVuDpA)
 
 
 ## Manuel d'instruction pour opération
