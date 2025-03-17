@@ -18,5 +18,5 @@ Fuga est une installation interactive où l'on peut créer son propre modèle d'
 * ![Image 1](Assets/Images/maquette/haut.jpg)
 * ![Image 1](Assets/Images/maquette/support.jpg)
 * ![Image 1](Assets/Images/maquette/ecran.jpg)
-* ![Image 6](https://placehold.co/400x400?text=6+image)
+* ![Image 1](Assets/Images/maquette/vue-haut.jpg)
 
