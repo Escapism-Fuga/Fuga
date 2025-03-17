@@ -28,3 +28,7 @@ Connection UDP des 3 nouveaux Atom vers les deux ordinateurs.
 ### Semaine 6
 Trouver les boites dans lesquels mettre les sliders.
 * ![S6 Boites](../../Assets/Images/Membres/matis_labelle/boites.jpg)
+
+### Semaine 7
+Retravailler les fonction grow() et die().
+* ![S6 Boites](../../Assets/Images/Membres/matis_labelle/grow.jpg)
