@@ -2,10 +2,10 @@
 
 Documentation du projet finalisé 
 
-* ![Image 1](Assets/Images/maquette/ecran1.jpg)
-* ![Image 2](Assets/Images/maquette/face.jpg)
-* ![Image 3](Assets/Images/maquette/haut.jpg)
-* ![Image 4](Assets/Images/maquette/support.jpg)
+* ![écran1](/50_diffusion/ecran1.jpg)
+* ![face](/50_diffusion/face.jpg)
+* ![haut](/50_diffusion/haut.jpg)
+* ![support](/50_diffusion/support.jpg)
 
 
 
