@@ -8,9 +8,11 @@ Documentation du projet finalisé
 * ![support](/50_diffusion/support.jpg)
 
 
+## Video d'intention
+* [![Vidéo explicative](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
 
-* [![Vidéo d'intention](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
-
+## Video bande-annonce
+[![Vidéo promotionnel](Assets/Images/Realisation/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
 
 * Documentation vidéo de l'installation en action
 
