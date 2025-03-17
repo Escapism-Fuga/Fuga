@@ -6,6 +6,7 @@ Documentation du projet finalisé
 * ![face](../50_diffusion/face.jpg)
 * ![haut](../50_diffusion/haut.jpg)
 * ![support](../50_diffusion/support.jpg)
+![fuga-teaser](https://github.com/user-attachments/assets/d0af94f1-e324-462f-bc5d-50bbbe2830f8)
 
 
 ## Video d'intention
