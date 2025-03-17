@@ -9,16 +9,16 @@ Documentation du projet finalisé
 
 
 ## Video d'intention
-* [![Vidéo explicative](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
+ [![Vidéo explicative](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
 
 ## Video bande-annonce
-[![Vidéo promotionnel](/50_diffusion/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
+ [![Vidéo promotionnel](/50_diffusion/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
 
 ## Video making of 
-[![Vidéo making-of](/50_diffusion/making-off-miniature.PNG)](https://youtu.be/vc4ROoVuDpA)
+ [![Vidéo making-of](/50_diffusion/making-off-miniature.PNG)](https://youtu.be/vc4ROoVuDpA)
 
 
-* Manuel d'instruction pour opération
+## Manuel d'instruction pour opération
 
 1. Lancer le code sur PlugData
 2. Ouvrir OscBridge
