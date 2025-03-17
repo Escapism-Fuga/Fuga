@@ -31,4 +31,4 @@ Trouver les boites dans lesquels mettre les sliders.
 
 ### Semaine 7
 Retravailler les fonction grow() et die().
-* ![S7 Grow()](../../Assets/Images/Membres/matis_labelle/grow.jpg)
+* ![S7 Grow()](../../Assets/Images/Membres/matis_labelle/grow.JPG)
