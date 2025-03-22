@@ -4,11 +4,9 @@ Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résult
 
 ## Gallerie d'images
 
-* ![Image 1](https://placehold.co/400x400?text=1+image)
-* ![écran](Assets/Images/40_maquette/maquette-ecrans1.PNG)
-* ![Image 2](https://placehold.co/400x400?text=2+image)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
-* ![Image 4](https://placehold.co/400x400?text=4+image)
-
+* ![écrans](../40_maquette/maquette-ecrans1.png)
+* ![knobs](../40_maquette/maquette-knobs1.png)
+* ![vue-haut](../40_maquette/maquette-haut1.png)
+* ![prototype](../40_maquette/maquette-prototype1.png)
 ## Vidéo du la maquette en action
  [![Vidéo maquette](../50_diffusion/making-off-miniature.PNG)](https://youtu.be/vc4ROoVuDpA)
