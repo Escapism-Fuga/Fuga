@@ -17,9 +17,9 @@ Installation physique de l'espace (écrans)
 ### semaine 5
 Installation des haut-parleurs et lumières de l'installation physique
 ![daniel-semaine5](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine5.jfif)
-### semaine 6
-Réalisation du montage de la vidéo making of
+### semaine 6 (jeudi)
+Configuration des lumières sur QLC+ et réalisation du montage de la vidéo making of
 ![daniel-semaine6](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine6.jfif)
 ### semaine 7
-Configuration des lumières et réalisation du montage de la vidéo bande-annonce
-![daniel-semaine6](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine6.jfif)
+Réalisation du montage de la vidéo bande-annonce
+![daniel-semaine7](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine7.PNG)
