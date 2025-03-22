@@ -10,4 +10,4 @@ Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résult
 * ![Image 4](https://placehold.co/400x400?text=4+image)
 
 ## Vidéo du la maquette en action
-
+ [![Vidéo maquette](../50_diffusion/making-off-miniature.PNG)](https://youtu.be/vc4ROoVuDpA)
