@@ -37,3 +37,17 @@ J'ai modifié la position des caméras pour obtenir une meilleure perspective de
 ![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/background-hdri.jfif)
 
 -----------------------------
+
+### Semaine 6
+Installation des haut-parleurs, modélisation 3D des couvercles de nos boîtes et affichage de chacun de nos arbres sur OBS.
+
+![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/background-hdri.jfif)
+
+-----------------------------
+
+### Semaine 7
+Impression 3D des couvercles pour nos boîtes, gestion des câbles pour un câblage propre et finalisation de l'installation physique.
+
+![S4 Caméras](../../Assets/Images/Membres/yavuz_selim_gucluer/background-hdri.jfif)
+
+-----------------------------
