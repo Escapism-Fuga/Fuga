@@ -23,3 +23,6 @@ continuer le mapping et design sonore mixant reaper et pluggdata pour l'interact
    * ## semaine 6
 Création et design du Logo Fuga et continuation du mapping sonore.
 * ![S6 Logo](../../Assets/Images/logo/logo.jfif)
+
+Filmage et montage video de la vidéo finale de présentation.
+* ![S7 Logo](../../Assets/Images/logo/sem6.PNG)
