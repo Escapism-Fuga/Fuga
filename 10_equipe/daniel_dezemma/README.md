@@ -21,5 +21,5 @@ Installation des haut-parleurs et lumières de l'installation physique
 Configuration des lumières sur QLC+ et réalisation du montage de la vidéo making of
 ![daniel-semaine6](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine6.jfif)
 ### semaine 7
-Réalisation du montage de la vidéo bande-annonce
+Réalisation du montage de la vidéo making of (ancienne version)
 ![daniel-semaine7](../../Assets/Images/Membres/daniel_dezemma/daniel-semaine7.PNG)
