@@ -12,8 +12,9 @@ Documentation du projet finalisé
 ## Video d'intention
  [![Vidéo explicative](../Assets/Images/synopsis/miniature-intention.png)](https://youtu.be/rhUf4A05L-w)
 
-## Video finale 
- [![Vidéo promotionnel](../Assets/Images/Realisation/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
+
+## Video finale
+[![Vidéo promotionnel](Assets/Images/Realisation/thub.jpg)](https://www.youtube.com/watch?v=e6qNc1Dp68Q)
 
 
 ## Manuel d'instruction pour opération
