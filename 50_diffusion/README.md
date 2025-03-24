@@ -14,7 +14,7 @@ Documentation du projet finalisé
 
 
 ## Video finale
-[![Vidéo promotionnel](Assets/Images/Realisation/thub.jpg)](https://www.youtube.com/watch?v=e6qNc1Dp68Q)
+[![Vidéo promotionnel](../Assets/Images/Realisation/thub.jpg)](https://www.youtube.com/watch?v=e6qNc1Dp68Q)
 
 
 ## Manuel d'instruction pour opération
