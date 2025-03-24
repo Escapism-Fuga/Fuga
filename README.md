@@ -12,7 +12,7 @@ Fuga est une installation interactive où l'on peut créer son propre modèle d'
 [![Vidéo promotionnel](Assets/Images/Realisation/fuga-teaser.jpg)](https://youtu.be/Akxtp_6DiVc)
 
 ## Video finale
-[![Vidéo promotionnel](Assets/Images/Realisation/thub.jpeg)](https://www.youtube.com/watch?v=e6qNc1Dp68Q)
+[![Vidéo promotionnel](Assets/Images/Realisation/thub.jpg)](https://www.youtube.com/watch?v=e6qNc1Dp68Q)
 
 ## Gallerie
 
